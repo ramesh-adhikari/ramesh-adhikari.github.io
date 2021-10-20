@@ -4,6 +4,13 @@
 <title>Ramesh Adhikari</title>
 </head>
 <body>
-<iframe src="https://adhikarir.com.np/" height="100%" width="100%" title="Iframe Example"></iframe>
+
+  <iframe src=""https://adhikarir.com.np/" onLoad="calcHeight(this);" frameborder="0" scrolling="no" id="the_iframe" width="100%" ></iframe>
 </body>
 </html>
+<script type="text/javascript">
+function calcHeight(iframeElement){
+    var the_height=  iframeElement.contentWindow.document.body.scrollHeight;
+    iframeElement.height=  the_height;
+}
+</script>
