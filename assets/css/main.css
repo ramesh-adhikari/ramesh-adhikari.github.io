@@ -269,3 +269,7 @@ div {
     vertical-align: baseline;
     border-radius: 0.25em;
 }
+
+.thead-light{
+	background: #eee;
+}
