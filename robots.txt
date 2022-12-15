@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://ramesh-adhikari.github.io
+
+# Sitemaps
+Sitemap: https://ramesh-adhikari.github.io/sitemap.xml
