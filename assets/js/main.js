@@ -33,27 +33,27 @@ $(document).ready(function(){
 			localStorage.lan = "es";
 	}
 
-	// Maybe first time or not, so load the localStorage value
-	$('<link>').appendTo('head').attr({
-		type: 'text/css', 
-		rel: 'stylesheet',
-		href: 'assets/css/light.css'
-	});
-	if (localStorage.theme == "dark") {
-		// Handle menu
-		$("link[href='assets/css/light.css']").remove();
-		$('<link>').appendTo('head').attr({
-			type: 'text/css', 
-			rel: 'stylesheet',
-			href: 'assets/css/dark.css'
-		});
-		$('#theme').empty().append("<i class='fa-duotone fa-lightbulb-slash'></i>");
-	}
-	// Done because light is the one by default
-	if(localStorage.lan == "es") {
-		$('#lan img').attr("src","/assets/img/es_flag.webp");
-		$('#lan').addClass("es");
-	}
+	// // Maybe first time or not, so load the localStorage value
+	// $('<link>').appendTo('head').attr({
+	// 	type: 'text/css', 
+	// 	rel: 'stylesheet',
+	// 	href: 'assets/css/light.css'
+	// });
+	// if (localStorage.theme == "dark") {
+	// 	// Handle menu
+	// 	$("link[href='assets/css/light.css']").remove();
+	// 	$('<link>').appendTo('head').attr({
+	// 		type: 'text/css', 
+	// 		rel: 'stylesheet',
+	// 		href: 'assets/css/dark.css'
+	// 	});
+	// 	$('#theme').empty().append("<i class='fa-duotone fa-lightbulb-slash'></i>");
+	// }
+	// // Done because light is the one by default
+	// if(localStorage.lan == "es") {
+	// 	$('#lan img').attr("src","/assets/img/es_flag.webp");
+	// 	$('#lan').addClass("es");
+	// }
 	updateLanguage();
 
 	// Handle 'About Me' content
