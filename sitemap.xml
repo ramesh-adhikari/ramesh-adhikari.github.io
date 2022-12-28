@@ -9,127 +9,217 @@
 
 <url>
   <loc>https://ramesh-adhikari.github.io/</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/index.html</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/pages/educations.html</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/pages/publications.html</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/pages/projects.html</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/pages/presentations.html</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/pages/blogs.html</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/pages/memories.html</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/assets/documents/Ramesh_Adhikari_CV.pdf</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/pages/course_work.html</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/assets/documents/presentation/RapidChain-Scaling-Blockchain-via-Full-Sharding.pdf</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/assets/documents/presentation/Lockless%20Transaction%20Isolation%20in%20Hyperledger%20Fabric.pdf</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/assets/documents/presentation/ByShard.pdf</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/assets/documents/presentation/Fast_Scheduling_in_Distributed_Transactional_Memory.pdf</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/assets/documents/presentation/Advance_topics_in_comp_sci_presentation.pdf</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramesh-adhikari.github.io/pages/memories-details/ramesh-adhikari-with-chlebus-bogdan.html</loc>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramesh-adhikari.github.io/pages/memories-details/ramesh-adhikari-disc-conference.html</loc>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramesh-adhikari.github.io/pages/memories-details/ramesh-adhikari-first-meet-with-dr-costas-busch.html</loc>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramesh-adhikari.github.io/pages/memories-details/ramesh-adhikari-first-time-at-gcc-building.html</loc>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramesh-adhikari.github.io/pages/memories-details/ramesh-adhikari-infront-of-augusta-university.html</loc>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramesh-adhikari.github.io/pages/memories-details/ramesh-adhikari-leaving-country-for-the-first-time-to-pursue-phd.html</loc>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramesh-adhikari.github.io/pages/memories-details/ramesh-adhikari-speech-masters-farewell-ncit.html</loc>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramesh-adhikari.github.io/pages/memories-details/ramesh-adhikari-receiving-token-of-love-from-ncit.html</loc>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramesh-adhikari.github.io/pages/memories-details/ramesh-adhikari-farewell-from-sanima-bank.html</loc>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramesh-adhikari.github.io/pages/memories-details/ramesh-adhikari-working-at-sanima-bank.html</loc>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramesh-adhikari.github.io/pages/memories-details/ramesh-adhikari-masters-thesis-final-defense-day.html</loc>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramesh-adhikari.github.io/pages/memories-details/ramesh-adhikari-in-smartmobe-solution.html</loc>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramesh-adhikari.github.io/pages/memories-details/ramesh-adhikari-all-time-friends.html</loc>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramesh-adhikari.github.io/pages/memories-details/ramesh-adhikari-with-smartmobe-team.html</loc>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramesh-adhikari.github.io/pages/memories-details/ramesh-adhikari-kathford-farewell.html</loc>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramesh-adhikari.github.io/pages/memories-details/ramesh-adhikari-with-mantra-ideas-team.html</loc>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramesh-adhikari.github.io/pages/memories-details/ramesh-adhikari-receiving-certificate-for-mentoring-kath-foss-software-competation-participants.html</loc>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ramesh-adhikari.github.io/pages/memories-details/ramesh-adhikari-kec-lite-software-competation.html</loc>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/assets/documents/syllabus/au/CSCI_6900.pdf</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/assets/documents/syllabus/au/CSCI_7100.pdf</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/assets/documents/syllabus/au/CSCI_7120.pdf</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/assets/documents/syllabus/pu/COM_733.pdf</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/assets/documents/syllabus/pu/COM_713.pdf</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/assets/documents/syllabus/pu/COM_732.pdf</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/assets/documents/syllabus/pu/COM_608.pdf</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/assets/documents/syllabus/pu/COM_605.pdf</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/assets/documents/syllabus/pu/COM_603.pdf</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ramesh-adhikari.github.io/assets/documents/syllabus/pu/COM_615.pdf</loc>
-  <lastmod>2022-12-18T06:17:10+00:00</lastmod>
+  <lastmod>2022-12-28T04:07:53+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
