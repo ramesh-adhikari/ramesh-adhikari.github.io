@@ -1,0 +1,65 @@
+[
+    {
+        "id": "3",
+        "category": "Blockchain Related Papers",
+        "papers": [
+            {
+                "title": "RapidChain: Scaling Blockchain via Full Sharding",
+                "authors": "Mahdi Zamani, Mahnush Movahedi, Mariana Raykova ",
+                "presented_to": "Introduction to research class",
+                "date": "Sept, 2022",
+                "paper_link": "https://dl.acm.org/doi/10.1145/3243734.3243853",
+                "presentation_slide_link": "../assets/documents/presentation/RapidChain-Scaling-Blockchain-via-Full-Sharding.pdf",
+                "video_link": "NONE"
+            },
+            {
+                "title": "Lockless Transaction Isolation in Hyperledger Fabric",
+                "authors": "Hagar Meir, Artem Barger, Yacov Manevich, Yoav Tock",
+                "presented_to": "Dr. Costas Busch",
+                "date": "Sept, 2022",
+                "paper_link": "https://arxiv.org/abs/1911.12711",
+                "presentation_slide_link": "../assets/documents/presentation/Lockless Transaction Isolation in Hyperledger Fabric.pdf",
+                "video_link": "NONE"
+            },
+            {
+                "title": "ByShard: sharding in a byzantine environment",
+                "authors": "Jelle Hellings, Mohammad Sadoghi",
+                "presented_to": "Dr. Costas Busch",
+                "date": "Sept, 2022",
+                "paper_link": "https://dl.acm.org/doi/abs/10.14778/3476249.3476275",
+                "presentation_slide_link": "../assets/documents/presentation/ByShard.pdf",
+                "video_link": "NONE"
+            }
+          ]
+    },
+    {
+        "id": "2",
+        "category": "Transactional Memory Related Papers",
+        "papers": [
+            {
+                "title": "Fast Scheduling in Distributed Transactional Memory",
+                "authors": "Costas Busch, Maurice Herlihy, Miroslav Popovic, Gokarna Sharma ",
+                "presented_to": "Dr. Costas Busch",
+                "date": "Dec, 2022",
+                "paper_link": "https://dl.acm.org/doi/abs/10.1145/3087556.3087565",
+                "presentation_slide_link": "../assets/documents/presentation/Fast_Scheduling_in_Distributed_Transactional_Memory.pdf",
+                "video_link": "NONE"
+            }
+          ]
+    },
+    {
+        "id": "1",
+        "category": "Computer Security Related Papers",
+        "papers": [
+            {
+                "title": "The Security Lottery: Measuring Client-Side Web Security Inconsistencies",
+                "authors": "Sebastian Roth, Stefano Calzavara, Moritz Wilhelm, Alvise Rabitti",
+                "presented_to": "Advanced Topics in Computer Security class",
+                "date": "Nov, 2022",
+                "paper_link": "https://www.usenix.org/system/files/sec22-roth.pdf",
+                "presentation_slide_link": "../assets/documents/presentation/Advance_topics_in_comp_sci_presentation.pdf",
+                "video_link": "NONE"
+            }
+          ]
+    }
+]
