@@ -181,31 +181,28 @@
 					<div class="container">
 						<h5 id="honors-and-awards"><b>Selected Projects</b></h5>
 
-							<ul>
-
-								<li class="">
-									Sharding in Blockchain [<span class="label label-info">work in progress</span>]
-								</li>
-								<li class="">
-									Transactional memory [<span class="label label-info">work in progress</span>]
-								</li>
-
-								<li class=" mt-2">
-									Implemented Blockchain Technology in the E-voting system [<a href="https://github.com/ramesh-adhikari/E-voting-system-using-blockchain-and-python" target="_blank">GitHub</a>]
-								</li>
-								<li class=" mt-2">
-									Geometric and Deep Learning Based Augmentation Technique on Fingerprint Spoof Detection [<a href="https://github.com/ramesh-adhikari/fingerprint-spoof-detection" target="_blank">GitHub</a>]
-								</li>
-								<li class=" mt-2">
-									Enhanced the performance of Convolutional Neural Network (CNN) by synthetically generating medical data using a generative adversarial network (GAN). [master’s thesis]
-								</li>
-								<li class=" mt-2">
-									Live Face mask detection using CNN and CV2 [<a href="https://github.com/ramesh-adhikari/Live-Face-Mask-Detection-Using-CNN-and-CV2" target="_blank">GitHub</a>]
-								</li>
-
-								<li class=" mt-2">
-									Designed microservice architecture and developed a workflow management system for Banking Industry [<span class="label label-success">Live</span> in  <a href="https://www.sanimabank.com/" target="_blank"> Sanima Bank Ltd</a>].
-								</li>
+							<ul id="myData"> 
+								
+									<script>
+										fetch('../datas/projects.json')
+											.then(function (response) {
+												return response.json();
+											})
+											.then(function (data) {
+												appendData(data);
+											})
+											.catch(function (err) {
+												console.log('error: ' + err);
+											});
+										function appendData(data) {
+											content = ''
+											var mainContainer = document.getElementById("myData");
+											for (var i = 0; i < data.length; i++) {
+												content += '<li>'+data[i].title+' '+data[i].status+'</li>'
+											}
+											mainContainer.innerHTML = content
+										}
+									</script>
 							</ul>
 					</div>
 				</div>
