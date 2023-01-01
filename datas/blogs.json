@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "title": "How to get a fully funded Master/Ph.D. with an assistantship in a USA universities",
+        "time_to_read": "3 min",
+        "date": "13 Dec. 2022",
+        "short_description": "Some steps for getting a fully funded Master/Ph.D. with an assistantship in a USA university",
+        "tags": "<span class='tag t-sky'>#phd</span> <span class='tag t-sky'>#scholarship</span> <span class='tag t-sky'>#USA</span> <span class='tag t-sky'>#assistantship</span>",
+        "link":"https://medium.com/@adrameshadhikari95/how-to-get-a-fully-funded-master-ph-d-with-an-assistantship-in-a-usa-university-b382dc0cc5c5"
+    },
+    {
+        "id": "1",
+        "title": "E-voting system using blockchain and python",
+        "time_to_read": "9 min",
+        "date": "13 Apr. 2022",
+        "short_description": "Implementing an E-voting system using blockchain and python, which is based on a research paper entitled 'A Conceptual Secure Blockchain-based Electronic Voting System' by Ahmed Ben Ayed.",
+        "tags": "<span class='tag t-sky'>#blockchain</span> <span class='tag t-sky'>#e-voting</span> ",
+        "link":"https://medium.com/@adrameshadhikari95/e-voting-system-using-blockchain-and-python-1cc55f7463d0"
+    },
+    {
+        "id": "1",
+        "title": "How to write clean code?",
+        "time_to_read": "4 min",
+        "date": "31 dec. 2020",
+        "short_description": "How to write the code that could be readable, reusable, and refactor-able is very challenging and interesting part in software development. Clean code is code that other developers can easily read, understand, and add to. Anyone can write a code that computer can understand but the only good programmer can write a code that human can understand.",
+        "tags": "<span class='tag t-sky'>#CleanCode</span> <span class='tag t-sky'>#Programming</span>",
+        "link":"https://medium.com/@adrameshadhikari95/how-to-write-clean-code-9ba0c9e3cae5"
+    },
+    {
+        "id": "1",
+        "title": "How to write clean code?",
+        "time_to_read": "4 min",
+        "date": "29 March. 2020",
+        "short_description": "An algorithm is a finite set of precise instructions for performing a computation or for solving a problem.",
+        "tags": "<span class='tag t-sky'>#algorithm</span> <span class='tag t-sky'>#algorithmComplexity</span> <span class='tag t-sky'>#asymptoticAnalysis</span>",
+        "link":"https://medium.com/@adrameshadhikari95/algorithm-and-its-complexity-7fa4359388d6"
+    },
+    {
+        "id": "1",
+        "title": "Basic linux commands",
+        "time_to_read": "7 min",
+        "date": "26 march. 2020",
+        "short_description": "Linux is the UNIX like operating system. The linux commands are run on the terminal, the terminal is like the command prompt of the windows OS. Linux is the open-source i.e. we  can simply change in Linux and redistribute it in our own name..",
+        "tags": "<span class='tag t-sky'>#linuxCommand</span> <span class='tag t-sky'>#linux</span> <span class='tag t-sky'>#ubuntu</span>",
+        "link":"https://medium.com/@adrameshadhikari95/basic-linux-commands-f7814c624877"
+    }
+]

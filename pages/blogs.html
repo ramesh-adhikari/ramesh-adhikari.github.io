@@ -178,118 +178,28 @@
 
 				<!-- Blog -->
 				<div class="col-md-7 mb-5">
-					<div class="container">
-						<div class="clickable mt-4 language">
-							<div class="d-none">https://medium.com/@adrameshadhikari95/how-to-get-a-fully-funded-master-ph-d-with-an-assistantship-in-a-usa-university-b382dc0cc5c5</div>
-							<div class="h5">How to get a fully funded Master/Ph.D. with an assistantship in a USA universities.</div>
-							<div class="blog-info mt-2">
-								<div class="d-inline">
-									<i class="fa-light fa-hourglass-clock" aria-hidden="true"></i> 3 min
-								</div>
-
-								<div class="float-end d-inline">
-									<i class="fa-light fa-calendar" aria-hidden="true"></i> 13 Dec. 2022
-								</div>
-							</div>
-
-							<div class="blog-short mt-2">
-								some steps for getting a fully funded Master/Ph.D. with an assistantship in a USA university
-							</div>
-
-							<div class="blog-tags mt-1">
-								<span class="tag t-sky">#phd</span> <span class="tag t-sky">#scholarship</span> <span class="tag t-sky">#USA</span> <span class="tag t-sky">#assistantship</span>
-							</div>
-						</div>
-
-						<div class="clickable mt-4 language">
-							<div class="d-none">https://medium.com/@adrameshadhikari95/e-voting-system-using-blockchain-and-python-1cc55f7463d0</div>
-							<div class="h5">E-voting system using blockchain and python</div>
-							<div class="blog-info mt-2">
-								<div class="d-inline">
-									<i class="fa-light fa-hourglass-clock" aria-hidden="true"></i> 9 min
-								</div>
-
-								<div class="float-end d-inline">
-									<i class="fa-light fa-calendar" aria-hidden="true"></i> 13 Apr. 2022
-								</div>
-							</div>
-
-							<div class="blog-short mt-2">
-								Implementing an E-voting system using blockchain and python, which is based on a research paper entitled "A Conceptual Secure Blockchain-based Electronic Voting System" by Ahmed Ben Ayed.
-							</div>
-
-							<div class="blog-tags mt-1">
-								<span class="tag t-sky">#blockchain</span> <span class="tag t-sky">#e-voting</span> 
-							</div>
-						</div>
-
-						<div class="clickable mt-4 language">
-							<div class="d-none">https://medium.com/@adrameshadhikari95/how-to-write-clean-code-9ba0c9e3cae5</div>
-							<div class="h5">How to write clean code?</div>
-							<div class="blog-info mt-2">
-								<div class="d-inline">
-									<i class="fa-light fa-hourglass-clock" aria-hidden="true"></i> 4 min
-								</div>
-
-								<div class="float-end d-inline">
-									<i class="fa-light fa-calendar" aria-hidden="true"></i> 31 dec. 2020
-								</div>
-							</div>
-
-							<div class="blog-short mt-2">
-								How to write the code that could be readable, reusable, and refactor-able is very challenging and interesting part in software development. Clean code is code that other developers can easily read, understand, and add to. Anyone can write a code that computer can understand but the only good programmer can write a code that human can understand.
-							</div>
-
-							<div class="blog-tags mt-1">
-								<span class="tag t-sky">#CleanCode</span> <span class="tag t-sky">#Programming</span>
-							</div>
-						</div>
-
-						<div class="clickable mt-4 language">
-							<div class="d-none">https://medium.com/@adrameshadhikari95/algorithm-and-its-complexity-7fa4359388d6</div>
-							<div class="h5">Algorithm and it’s complexity</div>
-							<div class="blog-info mt-2">
-								<div class="d-inline">
-									<i class="fa-light fa-hourglass-clock" aria-hidden="true"></i> 4 min
-								</div>
-
-								<div class="float-end d-inline">
-									<i class="fa-light fa-calendar" aria-hidden="true"></i> 29 March. 2020
-								</div>
-							</div>
-
-							<div class="blog-short mt-2">
-								An algorithm is a finite set of precise instructions for performing a computation or for solving a problem.
-							</div>
-
-							<div class="blog-tags mt-1">
-								<span class="tag t-sky">#algorithm</span> <span class="tag t-sky">#algorithmComplexity</span> <span class="tag t-sky">#asymptoticAnalysis</span>
-							</div>
-						</div>
-
-						<div class="clickable mt-4 language">
-							<div class="d-none">https://medium.com/@adrameshadhikari95/basic-linux-commands-f7814c624877</div>
-							<div class="h5">Basic linux commands</div>
-							<div class="blog-info mt-2">
-								<div class="d-inline">
-									<i class="fa-light fa-hourglass-clock" aria-hidden="true"></i> 7 min
-								</div>
-
-								<div class="float-end d-inline">
-									<i class="fa-light fa-calendar" aria-hidden="true"></i> 26 march. 2020
-								</div>
-							</div>
-
-							<div class="blog-short mt-2">
-								Linux is the UNIX like operating system. The linux commands are run on the terminal, the terminal is like the command prompt of the windows OS. Linux is the open-source i.e. we  can simply change in Linux and redistribute it in our own name.
-							</div>
-
-							<div class="blog-tags mt-1">
-								<span class="tag t-sky">#linuxCommand</span> <span class="tag t-sky">#linux</span> <span class="tag t-sky">#ubuntu</span>
-							</div>
-						</div>
-						
-					</div>
+					<div class="container" id="myData">
+                        <script>
+                            fetch('../datas/blogs.json')
+                                .then(function (response) {
+                                    return response.json();
+                                })
+                                .then(function (data) {
+                                    appendData(data);
+                                })
+                                .catch(function (err) {
+                                    console.log('error: ' + err);
+                                });
+                            function appendData(data) {
+                                content = ''
+                                var mainContainer = document.getElementById("myData");
+                                for (var i = 0; i < data.length; i++) {
+                                    content += '<div class="clickable mt-4 language"><div class="d-none">'+data[i].link+'</div><div class="h5">'+data[i].title+'</div><div class="blog-info mt-2"><div class="d-inline">		<i class="fa-light fa-hourglass-clock" aria-hidden="true"></i> '+data[i].time_to_read+'	</div><div class="float-end d-inline">		<i class="fa-light fa-calendar" aria-hidden="true"></i> '+data[i].date+'	</div></div><div class="blog-short mt-2">'+data[i].short_description+'</div><div class="blog-tags mt-1">'+data[i].tags+' </div></div>'
+                                }
+                                mainContainer.innerHTML = content
+                            }
+                        </script>
+				    </div>
 				</div>
 
 			</div>
