@@ -194,7 +194,7 @@
                                 content = ''
                                 var mainContainer = document.getElementById("myData");
                                 for (var i = 0; i < data.length; i++) {
-                                    content += '<div class="clickable mt-4 language"><div class="d-none">'+data[i].link+'</div><div class="h5">'+data[i].title+'</div><div class="blog-info mt-2"><div class="d-inline">		<i class="fa-light fa-hourglass-clock" aria-hidden="true"></i> '+data[i].time_to_read+'	</div><div class="float-end d-inline">		<i class="fa-light fa-calendar" aria-hidden="true"></i> '+data[i].date+'	</div></div><div class="blog-short mt-2">'+data[i].short_description+'</div><div class="blog-tags mt-1">'+data[i].tags+' </div></div>'
+                                    content += '<div class="clickable mt-4 language"><div class="d-none">'+data[i].link+'</div><a href="'+data[i].link+'" target="_blank"><div class="h5">'+data[i].title+'</div></a><div class="blog-info mt-2"><div class="d-inline">		<i class="fa-light fa-hourglass-clock" aria-hidden="true"></i> '+data[i].time_to_read+'	</div><div class="float-end d-inline">		<i class="fa-light fa-calendar" aria-hidden="true"></i> '+data[i].date+'	</div></div><div class="blog-short mt-2">'+data[i].short_description+'</div><div class="blog-tags mt-1">'+data[i].tags+' </div></div>'
                                 }
                                 mainContainer.innerHTML = content
                             }
