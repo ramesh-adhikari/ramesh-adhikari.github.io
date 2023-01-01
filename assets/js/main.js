@@ -237,7 +237,8 @@ $(document).ready(function(){
 
 	// Whenever you clic on a blog post, you should be redirected to that post' html
 	$('.clickable').click(function(e) {
-		window.open($(e.currentTarget)[0].childNodes[1].innerText, '_blank').focus();
+		// window.open($(e.currentTarget)[0].childNodes[1].innerText, '_blank').focus();
+		window.open($(e.currentTarget)[0].childNodes[0].innerText, '_blank').focus();
 	});
 
 	// Copy the citation to the clipboard
