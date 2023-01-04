@@ -198,7 +198,7 @@
 									content += '<ol>'
 										papers = data[i].papers
 										for(var j = 0; j < papers.length; j++) {
-											content += '<li class=""><a href="'+papers[j].paper_link+'" target="_blank">'+papers[j].title+'</a><br>'+papers[j].authors+'<br>Presented to '+papers[j].presented_to+', - '+papers[j].date+'.  [<a href="'+papers[j].presentation_slide_link+'" target="_blank">Slides</a>]'
+											content += '<li class="project-list"><a href="'+papers[j].paper_link+'" target="_blank">'+papers[j].title+'</a><br>'+papers[j].authors+'<br>Presented to '+papers[j].presented_to+', - '+papers[j].date+'.  [<a href="'+papers[j].presentation_slide_link+'" target="_blank">Slides</a>]'
 											if(!(papers[j].video_link=="NONE")) {
 												content += ' | [<a href="'+papers[j].video_link+'" target="_blank">Video</a>]';
 											}
