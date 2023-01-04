@@ -178,7 +178,7 @@
 
 				<!-- Memories -->
 				<div class="col-md-7 mb-5">
-                    <p>Thanks to the memory-preservation power of photography, I can reflect on my life and remember its most memorable moments. Even if it's simple to believe that I won't ever forget something, memories have a way of fading with time. My struggles and every memory give me the strength to be great every time. Here are some of my captured memories! </p>
+                    <p>Thanks to the memory-preservation power of photography, I can reflect on my life and remember its most memorable moments. My struggles and every memory give me the strength to be great every time. Here are some of my captured memories! </p>
 					<div class="row" id="myData">
                         <script>
                             fetch('../datas/memories.json')
@@ -195,7 +195,7 @@
                                 content = ''
                                 var mainContainer = document.getElementById("myData");
                                 for (var i = 0; i < data.length; i++) {
-                                    content += '<div class="col-md-6"><div class="custom-card"><div class="thumbnail"><a href="'+data[i].detail_page+'"><img src="'+data[i].image_url+'" style="width:346px; height: 300px;" alt="'+data[i].title+'"></a></div><p class="justify">'+data[i].description+'</p><div class="blog-info"><div class="d-inline"><i class="fal fa-map-marker-alt" aria-hidden="true"></i> '+data[i].location+'</div><div class="float-end d-inline"><i class="fa-light fa-calendar" aria-hidden="true"></i> '+data[i].date+'</div></div></div></div>'
+                                    content += '<div class="col-md-4"><div class="custom-card-list"><div class="thumbnail"><a href="'+data[i].detail_page+'"><img src="'+data[i].image_url+'" class="memories-image"  alt="'+data[i].title+'"></a></div><p class="justify">'+data[i].description+'</p><div class="blog-info"><div class="d-inline"><i class="fal fa-map-marker-alt" aria-hidden="true"></i> '+data[i].location+'</div><div class="float-end d-inline"><i class="fa-light fa-calendar" aria-hidden="true"></i> '+data[i].date+'</div></div></div></div>'
                                 }
                                 mainContainer.innerHTML = content
                             }
