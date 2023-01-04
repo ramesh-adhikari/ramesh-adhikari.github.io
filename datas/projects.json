@@ -1,14 +1,20 @@
 [
     {
-        "id": "7",
+        "id": "8",
         "title": "Sharding in Blockchain",
         "status": "[<span class='label label-info'>work in progress</span>]",
         "date": ""
     },
     {
-        "id": "6",
+        "id": "7",
         "title": "Transactional memory",
         "status": "[<span class='label label-info'>work in progress</span>]",
+        "date": ""
+    },
+    {
+        "id": "6",
+        "title": "Seed Lab 2.0 projects which includes Breaking a Simple Cipher, TCP Attacks, Buffer Overflow Attack (Server), Request Forgery (CSRF) Attack, SQL Injection Attack, Meltdown Attack",
+        "status": "[<a href='https://github.com/ramesh-adhikari/seed-lab-2.0-projects' target='_blank'>GitHub</a>]",
         "date": ""
     },
     {
