@@ -216,7 +216,10 @@ li > .active {
 	}
 	
 	.abme-honors-bullet{
-		margin-left: 40px;
+		margin-left: 14px;
+	}
+	.project-list{
+		margin-left: -16px;
 	}
 }
 .container-menu {
