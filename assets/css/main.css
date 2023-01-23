@@ -40,6 +40,11 @@ li > .active {
   	text-justify: inter-word;
 }
 
+.memories-image{
+	width:215px;
+	height: 200px;
+}
+
 /* NICOLAS MESEGUER CONTACT INFO - Related*/
 .profilepicture {
 	max-height: 200px;
@@ -328,10 +333,6 @@ div {
 	font-size: 11px;
 }
 
-.memories-image{
-	width:215px;
-	height: 200px;
-}
 
 a:link {
 	text-decoration: none;
