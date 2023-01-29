@@ -1,12 +1,22 @@
 [
+    
     {
-        "id": "18",
+        "id": "19",
         "title": "Ramesh Adhikari, with Professor Bogdan Chlebus, Legend of Algorithm Analysis",
         "description": "<a href='https://ramesh-adhikari.github.io/' target='blank'>Ramesh Adhikari</a>, with Professor Bogdan Chlebus, Legend of Algorithm Analysis",
         "image_url": "../assets/memories/ramesh-adhikari-with-chlebus-bogdan.jpeg",
         "location": "Augusta University, USA",
         "date": "7 Dec. 2022",
         "detail_page": "memories-details/ramesh-adhikari-with-chlebus-bogdan.html"
+    },
+    {
+        "id": "18",
+        "title": "Ramesh Adhikari, with Professor Hoda Maleki and classmate in last day of the Advance topic in computer and cyber science class.",
+        "description": "<a href='https://ramesh-adhikari.github.io/' target='blank'>Ramesh Adhikari</a>, with Professor Hoda Maleki and classmate in last day of the Adv. topic in computer & cyber science class.",
+        "image_url": "../assets/memories/group-photo-with-dr-hoda.jpg",
+        "location": "Augusta University, USA",
+        "date": "6 Dec. 2022",
+        "detail_page": "memories_details.html?group-photo-with-dr-hoda"
     },
     {
         "id": "17",
