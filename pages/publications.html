@@ -194,7 +194,7 @@
                                 content = ''
                                 var mainContainer = document.getElementById("myData");
                                 for (var i = 0; i < data.length; i++) {
-                                    content += '<div class="row mt-2"><h5 class="pub-year-h2">'+data[i].year+'</h5><div class="pub-block">	<div class="trnsf-italic h6">'+data[i].title+'</div>	<div class="pub-authors mt-1"><span class="pub-author"> '+data[i].authors+'</div>	<div class="">'+data[i].journal_name+'</div>	<div class="pub-link mt-1"><i class="far fa-file-pdf"></i> <a href="'+data[i].paper_link+'" target="_blank" class="link-dark">Paper Link</a>'
+                                    content += '<div class="row mt-2"><h5 class="pub-year-h2">'+data[i].year+'</h5><div class="pub-block">	<div class="trnsf-italic h6" style="font-size: 15px;">'+data[i].title+'</div>	<div class="pub-authors mt-1"><span class="pub-author"> '+data[i].authors+'</div>	<div class="">'+data[i].journal_name+'</div>	<div class="pub-link mt-1"><i class="far fa-file-pdf"></i> <a href="'+data[i].paper_link+'" target="_blank" class="link-dark">Paper Link</a>'
 									if(!(data[i].presentation_slides_link =='NONE'))
 										content += '  |<span class="pub-force-margin-left"><i class="fa-solid fa-presentation-screen"></i> <a href="'+data[i].presentation_slides_link+'" target="_blank"  class="link-dark">Presentation Slides</a></span>'
 									if(!(data[i].github_code_link =='NONE'))
