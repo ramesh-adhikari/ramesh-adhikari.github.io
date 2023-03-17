@@ -1,9 +1,27 @@
 [
+    {
+        "id": "21",
+        "title": "With Dr. Gagan Agrawal and colleague at data science workshop",
+        "description": "With Dr. Gagan Agrawal and colleague at data science workshop",
+        "image_url": "../assets/memories/ramesh-adhikari-with-dr-agrawal.JPG",
+        "location": "Augusta University, USA",
+        "date": "17 March. 2023",
+        "detail_page": "memories_details.html?ramesh-adhikari-with-dr-agrawal"
+    },
+    {
+        "id": "20",
+        "title": "Presented a poster at 3rd annual workshop on Emerging Data Science Methods for Complex Biomedical and Cyber Data",
+        "description": "Presented a poster at 3rd annual workshop on Emerging Data Science Methods for Complex Biomedical and Cyber Data",
+        "image_url": "../assets/memories/ramesh-adhikari-poster-presentaiton-on-third-datascience-workshop.jpg",
+        "location": "Augusta University, USA",
+        "date": "16 March. 2023",
+        "detail_page": "memories_details.html?ramesh-adhikari-poster-presentaiton-on-third-datascience-workshop"
+    },
     
     {
         "id": "19",
-        "title": "Ramesh Adhikari, with Professor Bogdan Chlebus, Legend of Algorithm Analysis",
-        "description": "<a href='https://ramesh-adhikari.github.io/' target='blank'>Ramesh Adhikari</a>, with Professor Bogdan Chlebus, Legend of Algorithm Analysis",
+        "title": "With Professor Bogdan Chlebus, Legend of Algorithm Analysis",
+        "description": "With Professor Bogdan Chlebus, Legend of Algorithm Analysis",
         "image_url": "../assets/memories/ramesh-adhikari-with-chlebus-bogdan.jpeg",
         "location": "Augusta University, USA",
         "date": "7 Dec. 2022",
@@ -11,8 +29,8 @@
     },
     {
         "id": "18",
-        "title": "Ramesh Adhikari, with Professor Hoda Maleki and classmate in last day of the Advance topic in computer and cyber science class.",
-        "description": "<a href='https://ramesh-adhikari.github.io/' target='blank'>Ramesh Adhikari</a>, with Professor Hoda Maleki and classmate in last day of the Adv. topic in computer & cyber science class.",
+        "title": "With Professor Hoda Maleki and classmate in last day of the Advance topic in computer and cyber science class.",
+        "description": "With Professor Hoda Maleki and classmate in last day of the Adv. topic in computer & cyber science class.",
         "image_url": "../assets/memories/group-photo-with-dr-hoda.jpg",
         "location": "Augusta University, USA",
         "date": "6 Dec. 2022",
@@ -20,8 +38,8 @@
     },
     {
         "id": "17",
-        "title": "Ramesh Adhikari, in 2022 International Symposium on Distributed Computing (DISC) conference",
-        "description": "<a href='https://ramesh-adhikari.github.io/' target='_blank'>Ramesh Adhikari</a>, in 2022 International Symposium on Distributed Computing (DISC) conference",
+        "title": "In 2022 International Symposium on Distributed Computing (DISC) conference",
+        "description": "In 2022 International Symposium on Distributed Computing (DISC) conference",
         "image_url": "../assets/memories/ramesh-adhikari-disc-conference.jpeg",
         "location": "Augusta University, USA",
         "date": "18 Oct. 2022",
@@ -30,8 +48,8 @@
     },
     {
         "id": "16",
-        "title": "Ramesh Adhikari, meet his PhD advisor Dr. Costas Busch, for the first time",
-        "description": " <a href='https://ramesh-adhikari.github.io/' target='_blank'>Ramesh Adhikari</a>, meet his PhD advisor Dr. Costas Busch, for the first time.",
+        "title": "Meet my PhD advisor Dr. Costas Busch, for the first time",
+        "description": "Meet my PhD advisor Dr. Costas Busch, for the first time.",
         "image_url": "../assets/memories/ramesh-adhikari-first-meet-with-dr-costas-busch.jpeg",
         "location": "Georgia Cyber Center, USA",
         "date": "5 Aug. 2022",
@@ -40,7 +58,7 @@
     {
         "id": "15",
         "title": "Ramesh Adhikari first day at Georgia Cyber Center, School of Computer and Cyber Sciences, Augusta University",
-        "description": " <a href='https://ramesh-adhikari.github.io/' target='_blank'>Ramesh Adhikari</a>, first day at Georgia Cyber Center, <a href='https://www.augusta.edu/ccs' target='_blank'>School of Computer and Cyber Sciences</a>, <a href='https://www.augusta.edu' target='_blank'>Augusta University</a>.",
+        "description": "First day at Georgia Cyber Center, <a href='https://www.augusta.edu/ccs' target='_blank'>School of Computer and Cyber Sciences</a>, <a href='https://www.augusta.edu' target='_blank'>Augusta University</a>.",
         "image_url": "../assets/memories/ramesh-adhikari-first-time-at-gcc-building.jpeg",
         "location": "Georgia Cyber Center, USA",
         "date": "5 Aug. 2022",
@@ -49,7 +67,7 @@
     {
         "id": "14",
         "title": "Ramesh Adhikari, infront of the Augusta University",
-        "description": " <a href='https://ramesh-adhikari.github.io/' target='_blank'>Ramesh Adhikari</a>, infront of the <a href='https://www.augusta.edu/' target='_blank'>Augusta University</a>, for the firsr time.",
+        "description": "Infront of the <a href='https://www.augusta.edu/' target='_blank'>Augusta University</a>, for the firsr time.",
         "image_url": "../assets/memories/ramesh-adhikari-infront-of-augusta-university.jpeg",
         "location": "Augusta University, USA",
         "date": "9 Aug. 2022",
@@ -58,7 +76,7 @@
     {
         "id": "13",
         "title": "Ramesh Adhikari leaving his home country, Nepal, for the first time to pursue PhD in USA",
-        "description": " <a href='https://ramesh-adhikari.github.io/' target='_blank'>Ramesh Adhikari</a>, leaving his home country, Nepal, for the first time.",
+        "description": "Leaving home country, Nepal, for the first time.",
         "image_url": "../assets/memories/ramesh-adhikari-leaving-country-for-the-first-time-to-pursue--phd.jpeg",
         "location": "KTM Airport, Nepal",
         "date": "3 Aug. 2022",
@@ -67,7 +85,7 @@
     {
         "id": "12",
         "title": "Ramesh Adhikari, delivered the speech at NCIT masters farewell program, on behalf of Master's students (Batch 2018-2019)",
-        "description": "<a href='https://ramesh-adhikari.github.io/' target='_blank'>Ramesh Adhikari</a>, delivered the speech at <a href='https://ncit.edu.np/' target='_blank'> NCIT </a>masters farewell program, on behalf of Master's students (Batch 2018-2019).",
+        "description": "Delivered the speech at <a href='https://ncit.edu.np/' target='_blank'> NCIT </a>masters farewell program, on behalf of Master's students (Batch 2018-2019).",
         "image_url": "../assets/memories/ramesh-adhikari-speech-masters-farewell-ncit.jpeg",
         "location": "Kathmandu, Nepal",
         "date": "8 Jul. 2022",
@@ -76,7 +94,7 @@
     {
         "id": "11",
         "title": "Ramesh Adhikari, Receiving the Token of love from Nepal College of Information Technology at farewell program",
-        "description": " <a href='https://ramesh-adhikari.github.io/' target='_blank'>Ramesh Adhikari</a>, Receiving the Token of love from <a href='https://ncit.edu.np/' target='_blank'>Nepal College of Information Technology</a> at farewell program.",
+        "description": "Receiving the Token of love from <a href='https://ncit.edu.np/' target='_blank'>Nepal College of Information Technology</a> at farewell program.",
         "image_url": "../assets/memories/ramesh-adhikari-receiving-token-of-love-from-ncit.jpeg",
         "location": "Kathmandu, Nepal",
         "date": "8 Jul. 2022",
@@ -85,7 +103,7 @@
     {
         "id": "10",
         "title": "Ramesh Adhikari, farewell program from Sanima Bank",
-        "description": " <a href='https://ramesh-adhikari.github.io/' target='_blank'>Ramesh Adhikari</a>, farewell program from <a href='https://sanimabank.com/' target='_blank'>Sanima Bank</a>, IT department team.",
+        "description": "Farewell program from <a href='https://sanimabank.com/' target='_blank'>Sanima Bank</a>, IT department team.",
         "image_url": "../assets/memories/ramesh-adhikari-farewell-from-sanima-bank.jpeg",
         "location": "Kathmandu, Nepal",
         "date": "15 Jul. 2022",
@@ -94,7 +112,7 @@
     {
         "id": "9",
         "title": "Ramesh Adhikari, worked as a software Engineer at Sanima Bank",
-        "description": " <a href='https://ramesh-adhikari.github.io/' target='_blank'>Ramesh Adhikari</a>, worked as a software Engineer at Sanima Bank.",
+        "description": "While working as a software Engineer at Sanima Bank.",
         "image_url": "../assets/memories/ramesh-adhikari-working-at-sanima-bank.jpeg",
         "location": "Kathmandu, Nepal",
         "date": "29 Mar. 2021",
@@ -103,7 +121,7 @@
     {
         "id": "8",
         "title": "Ramesh Adhikari  photo taken after final defense of master’s thesis at NCIT",
-        "description": " <a href='https://ramesh-adhikari.github.io/' target='_blank'>Ramesh Adhikari</a>, photo taken after final defense of master’s thesis at <a href='https://ncit.edu.np/' target='_blank'>NCIT</a>",
+        "description": " Photo taken after final defense of master’s thesis at <a href='https://ncit.edu.np/' target='_blank'>NCIT</a>",
         "image_url": "../assets/memories/ramesh-adhikari-masters-thesis-final-defense-day.jpeg",
         "location": "Kathmandu, Nepal",
         "date": "29 Jan. 2021",
@@ -112,25 +130,16 @@
     {
         "id": "7",
         "title": "Ramesh Adhikari, worked at Smartmobe Solution as a software Engineer",
-        "description": "<a href='https://ramesh-adhikari.github.io/' target='_blank'>Ramesh Adhikari</a>, worked at Smartmobe Solution as a software Engineer.",
+        "description": "While Working at Smartmobe Solution as a software Engineer.",
         "image_url": "../assets/memories/ramesh-adhikari-in-smartmobe-solution.jpeg",
         "location": "Kathmandu, Nepal",
         "date": "11 May 2019",
         "detail_page": "memories-details/ramesh-adhikari-in-smartmobe-solution.html"
     },
     {
-        "id": "6",
-        "title": "Ramesh Adhikari, with best friends forever",
-        "description": "<a href='https://ramesh-adhikari.github.io/' target='_blank'>Ramesh Adhikari</a>, with best friends forever.",
-        "image_url": "../assets/memories/ramesh-adhikari-all-time-friends.jpeg",
-        "location": "Gorkha, Nepal",
-        "date": "10 Nov. 2018",
-        "detail_page": "memories-details/ramesh-adhikari-all-time-friends.html"
-    },
-    {
         "id": "5",
         "title": "Ramesh Adhikari, with Smartmobe Solution team",
-        "description": "<a href='https://ramesh-adhikari.github.io/' target='_blank'>Ramesh Adhikari</a>, with Smartmobe Solution team.",
+        "description": "With Smartmobe Solution team.",
         "image_url": "../assets/memories/ramesh-adhikari-with-smartmobe-team.jpeg",
         "location": "Bandipur, Nepal",
         "date": "10 Feb. 2018",
@@ -139,7 +148,7 @@
     {
         "id": "4",
         "title": "Ramesh Adhikari at Kathford College for farewell program",
-        "description": "<a href='https://ramesh-adhikari.github.io/' target='_blank'>Ramesh Adhikari</a>, at <a href='https://kathford.edu.np/' target='_blank'>Kathford</a> farewell program.",
+        "description": "At <a href='https://kathford.edu.np/' target='_blank'>Kathford</a> farewell program.",
         "image_url": "../assets/memories/ramesh-adhikari-kathford-farewell.jpeg",
         "location": "Lalitpur, Nepal",
         "date": "25 Dec. 2017",
@@ -148,7 +157,7 @@
     {
         "id": "3",
         "title": "Ramesh Adhikari with Mantra Ideas team",
-        "description": "<a href='https://ramesh-adhikari.github.io/' target='_blank'>Ramesh Adhikari</a>, with <a href='https://www.mantraideas.com/' target='_blank'>Mantra Ideas</a> team.",
+        "description": "With <a href='https://www.mantraideas.com/' target='_blank'>Mantra Ideas</a> team.",
         "image_url": "../assets/memories/ramesh-adhikari-with-mantra-ideas-team.jpeg",
         "location": "Chitlang, Nepal",
         "date": "31 July. 2017",
@@ -157,7 +166,7 @@
     {
         "id": "2",
         "title": "Ramesh Adhikari received appreciation cretificate for monitored and guided the participants in EVOLVE 2.0 software competition",
-        "description": " <a href='https://ramesh-adhikari.github.io/' target='_blank'>Ramesh Adhikari</a>, received an certificate for monitoring and guiding the participants in EVOLVE-2 software competition.",
+        "description": " Received an certificate for monitoring and guiding the participants in EVOLVE-2 software competition.",
         "image_url": "../assets/memories/ramesh-adhikari-receiving-certificate-for-mentoring-kath-foss-software-competation-participants.jpeg",
         "location": "Lalitpur, Nepal",
         "date": "22 Jul. 2017",
@@ -165,8 +174,8 @@
     },
     {
         "id": "1",
-        "title": "Ramesh Adhikari, received first runner up award, software competition at Kantipur engineering college",
-        "description": "<a href='https://ramesh-adhikari.github.io/' target='_blank'>Ramesh Adhikari</a>, received first runner up award, software competition at <a href='https://kec.edu.np/' target='_blank'>Kantipur engineering</a> college",
+        "title": "Received first runner up award, software competition at Kantipur engineering college",
+        "description": "Received first runner up award, software competition at <a href='https://kec.edu.np/' target='_blank'>Kantipur engineering</a> college",
         "image_url": "../assets/memories/ramesh-adhikari-kec-lite-software-competation.jpeg",
         "location": "Lalitpur, Nepal",
         "date": "27 Feb. 2015",
