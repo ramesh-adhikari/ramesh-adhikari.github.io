@@ -14,9 +14,9 @@ a {
 	margin-top: 1em;
 }
 
-.abme-honors-bullet{
+/* .abme-honors-bullet{
 	font-size: 16px;
-}
+} */
 
 /* GENERAL CSS */
 #main-content {
@@ -258,11 +258,12 @@ div {
 
    .row {
 	font-size: 15px !important;
+	line-height: 1.6 !important;
    }
 
-   ul li{
+   /* ul li{
 	font-size:15px !important;
-   }
+   } */
 
    .label-primary {
     background-color: #0d6efd;
@@ -358,6 +359,12 @@ a:link {
 
  .h5-title{
 	margin-top: 0px;
-    margin-bottom: 4px;
-	font-size: 18px;
+    /* margin-bottom: 4px;
+	font-size: 18px; */
  }
+
+ .alert-primary {
+    --bs-alert-color: #010914;
+    --bs-alert-bg: #f4f6f9;
+    --bs-alert-border-color: #dde0e4;
+}
