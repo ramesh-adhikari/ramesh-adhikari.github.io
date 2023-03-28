@@ -187,7 +187,7 @@
                                 var mainContainer = document.getElementById("myData");
                                 for (var i = 0; i < data.length; i++) {
                                     content += '<h5 class="h5-title">'+data[i].category+'</h5>'
-									content += '<ol>'
+									content += '<ul>'
 										papers = data[i].papers
 										for(var j = 0; j < papers.length; j++) {
 											content += '<li class="project-list"><a href="'+papers[j].paper_link+'" target="_blank">'+papers[j].title+'</a><br>'+papers[j].authors+'<br>Presented to '+papers[j].presented_to+', - '+papers[j].date+'.  [<a href="'+papers[j].presentation_slide_link+'" target="_blank">Slides</a>]'
@@ -196,7 +196,7 @@
 											}
 											content += '</li>'
 										}
-									content += '</ol>'
+									content += '</ul>'
                                 }
                                 mainContainer.innerHTML = content
                             }

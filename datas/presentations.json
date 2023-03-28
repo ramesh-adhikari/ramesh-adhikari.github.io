@@ -37,6 +37,15 @@
         "category": "Transactional Memory Related Papers",
         "papers": [
             {
+                "title": "Software Transactional Memory (STM)",
+                "authors": "Nir Shavit, Dan Touitou ",
+                "presented_to": "Network and Distributed Algorithm Class",
+                "date": "March, 2023",
+                "paper_link": "https://dl.acm.org/doi/pdf/10.1145/224964.224987",
+                "presentation_slide_link": "../assets/documents/presentation/Software_Transactional_Memory.pdf",
+                "video_link": "NONE"
+            },
+            {
                 "title": "Fast Scheduling in Distributed Transactional Memory",
                 "authors": "Costas Busch, Maurice Herlihy, Miroslav Popovic, Gokarna Sharma ",
                 "presented_to": "Dr. Costas Busch",
