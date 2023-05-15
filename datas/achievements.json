@@ -1,8 +1,18 @@
 [
     {
-        "id": "6",
-        "title": "Presented poster at <b>3rd annual workshop on Emerging Data Science Methods for Complex Biomedical and Cyber Data</b> at Augusta University, received a travel award of $100 to cover registration fee, funded by NSF",
+        "id": "8",
+        "title": "Travel award, $1000 from Graduate School, Augusta University, to present the paper in SIROCCO 2023 conference in Madrid, Spain",
         "date": "March, 2023"
+    },
+    {
+        "id": "7",
+        "title": "Presented poster at <b>3rd annual workshop on Emerging Data Science Methods for Complex Biomedical and Cyber Data</b> at Augusta University",
+        "date": "March, 2023"
+    },
+    {
+        "id": "6",
+        "title": "NSF travel award, $100 for the 3rd data science workshop at Augusta University, Feb 2023",
+        "date": "Feb, 2023"
     },
     {
         "id": "5",
