@@ -185,7 +185,7 @@
                                 content = ''
                                 var mainContainer = document.getElementById("myData");
                                 for (var i = 0; i < data.length; i++) {
-                                    content += '<div class="col-md-4"><div class="custom-card-list"><div class="thumbnail"><a href="'+data[i].detail_page+'"><img src="'+data[i].image_url+'" class="memories-image"  alt="'+data[i].title+'"></a></div><p class="justify">'+data[i].description+'</p><div class="blog-info"><div class="d-inline"><i class="fal fa-map-marker-alt" aria-hidden="true"></i> '+data[i].location+'</div><div class="float-end d-inline"><i class="fa-light fa-calendar" aria-hidden="true"></i> '+data[i].date+'</div></div></div></div>'
+                                    content += '<div class="col-md-4"><div class="custom-card-list"><div class="thumbnail"><a href="'+data[i].detail_page+'"><img src="'+data[i].image_url+'" class="memories-image"  alt="'+data[i].title+'"></a></div><p class="justify">'+data[i].title+'</p><div class="blog-info"><div class="d-inline"><i class="fal fa-map-marker-alt" aria-hidden="true"></i> '+data[i].location+'</div><div class="float-end d-inline"><i class="fa-light fa-calendar" aria-hidden="true"></i> '+data[i].date+'</div></div></div></div>'
                                 }
                                 mainContainer.innerHTML = content
                             }
