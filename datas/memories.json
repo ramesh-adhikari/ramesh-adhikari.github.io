@@ -1,5 +1,14 @@
 [
     {
+        "id": "22",
+        "title": "Presented our research paper at SIROCCO-2023",
+        "description": "Presented our research paper entitled 'Lockless Blockchain Sharding with Multiversion Control' at SIROCCO-2023.",
+        "image_url": "../assets/memories/ramesh-adhikari-paper-presentation-in-sirocco-2023.JPG",
+        "location": "Alcala, Madrid, Spain",
+        "date": "8 June 2023",
+        "detail_page": "memories_details.html?ramesh-adhikari-paper-presentation-in-sirocco-2023"
+    },
+    {
         "id": "21",
         "title": "With Dr. Gagan Agrawal and colleague at data science workshop",
         "description": "With Dr. Gagan Agrawal and colleague at data science workshop",
