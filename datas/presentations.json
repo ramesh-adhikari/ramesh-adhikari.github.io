@@ -1,6 +1,6 @@
 [
     {
-        "id": "3",
+        "id": "4",
         "category": "Blockchain Related Papers",
         "papers": [
             {
@@ -28,6 +28,21 @@
                 "date": "Sept, 2022",
                 "paper_link": "https://dl.acm.org/doi/abs/10.14778/3476249.3476275",
                 "presentation_slide_link": "../assets/documents/presentation/ByShard.pdf",
+                "video_link": "NONE"
+            }
+          ]
+    },
+    {
+        "id": "3",
+        "category": "Digital forensics with Blockchain",
+        "papers": [
+            {
+                "title": "A blockchain‑based decentralized efficient investigation framework for IoT digital forensics",
+                "authors": "Jung Hyun Ryu, Pradip Kumar Sharma, Jeong Hoon Jo & Jong Hyuk Park",
+                "presented_to": "Research Group",
+                "date": "August, 2023",
+                "paper_link": "https://link.springer.com/article/10.1007/s11227-019-02779-9",
+                "presentation_slide_link": "../assets/documents/presentation/A blockchain‑based decentralized efficient investigation framework for IoT digital forensics.pdf",
                 "video_link": "NONE"
             }
           ]
