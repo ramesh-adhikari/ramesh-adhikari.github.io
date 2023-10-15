@@ -1,47 +1,57 @@
 [
     {
+        "id": "11",
+        "title": "Attended The Southeast Regional Programming Languages Seminar 2023",
+        "date": "(Oct 2023)"
+    },
+    {
+        "id": "10",
+        "title": "Presented a paper at the 30th International Colloquium on Structural Information and Communication Complexity (SIROCCO 2023) in Alcala De Henares, Madrid, Spain",
+        "date": "(June 6-9, 2023)"
+    },
+    {
         "id": "9",
-        "title": "Presented paper at <b>30th International Colloquium on Structural Information and Communication Complexity SIROCCO 2023</b> at Alcala De Henares, Madrid, Spain",
-        "date": "June 6th to 9th, 2023"
+        "title": "Received $1000 travel award from the Graduate School, Augusta University, to present a paper at SIROCCO 2023",
+        "date": "(Mar 2023)"
     },
     {
         "id": "8",
-        "title": "Travel award, $1000 from Graduate School, Augusta University, to present the paper in SIROCCO 2023 conference in Madrid, Spain",
-        "date": "March, 2023"
+        "title": "Presented a poster at the 3rd annual workshop on Emerging Data Science Methods for Complex Biomedical and Cyber Data at Augusta University",
+        "date": "(Mar 2023)"
     },
     {
         "id": "7",
-        "title": "Presented poster at <b>3rd annual workshop on Emerging Data Science Methods for Complex Biomedical and Cyber Data</b> at Augusta University",
-        "date": "March, 2023"
+        "title": "Received an NSF travel award for the 3rd Data Science Workshop at <a href='https://www.augusta.edu/' target='_blank'> Augusta University</a>",
+        "date": "(Feb 2023)"
     },
     {
         "id": "6",
-        "title": "NSF travel award, $100 for the 3rd data science workshop at Augusta University, Feb 2023",
-        "date": "Feb, 2023"
+        "title": "Received an NSF travel award for the (DISC) conference",
+        "date": "(Nov 2022)"
     },
     {
         "id": "5",
-        "title": "Participated in <b>International Symposium on Distributed Computing (DISC) conference</b>, received $340 award for registration from <a href='https://www.augusta.edu' target='_blank'>Augusta University</a>, funded by National Science Foundation (NSF)",
-        "date": "October, 2022"
+        "title": "Attended the International Symposium on Distributed Computing (DISC) conference in 2022",
+        "date": "(Oct 2022)"
     },
     {
         "id": "4",
-        "title": "Received <b>Star Performance Excellence Award</b>, <a href='https://www.sanimabank.com/' target='_blank'> Sanima Bank Ltd</a>",
-        "date": "2021"
+        "title": "Received the Star Performance Excellence Award at <a href='https://www.sanimabank.com/' target='_blank'> Sanima Bank Ltd</a>",
+        "date": "(2021)"
     },
     {
         "id": "3",
-        "title": "Received <b>Full Scholarship</b>, for Master of Science in Computer Engineering from <a href='https://pu.edu.np/' target='_blank'>Pokhara  University</a>",
-        "date": "2018"
+        "title": "Granted a full scholarship for a Master of Science in Computer Engineering from <a href='https://pu.edu.np/' target='_blank'> Pokhara University</a>",
+        "date": "(2018)"
     },
     {
         "id": "2",
-        "title": "Worked as a member of Kathford FOSS Community in <a href='https://kathford.edu.np/' target='_blank'>Kathford Int’l college</a>, monitored and guided the participants in EVOLVE( ) 2.0 <b>software competition</b>",
-        "date": "2017"
+        "title": "Served as a member of the Kathford FOSS Community at <a href ='https://kathford.edu.np/' target='_blank '>Kathford International College</a>, guiding participants in the EVOLVE 2.0 software competition",
+        "date": "(2017)"
     },
     {
         "id": "1",
-        "title": "First Runner Up in <b>National Lite Coding Competition</b> at <a href='https://kec.edu.np/'' target='_blank'>Kantipur engineering</a> college",
-        "date": "2015"
+        "title": "Achieved First Runner-Up in a software competition at <a href='https://kec.edu.np/'  target='_blank'>Kantipur engineering</a>",
+        "date": "(2015)"
     }
 ]
