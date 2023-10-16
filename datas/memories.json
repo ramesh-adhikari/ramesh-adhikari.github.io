@@ -1,5 +1,14 @@
 [
     {
+        "id": "24",
+        "title": "Attended The Southeast Regional Programming Languages Seminar (SERPL)",
+        "description": "Attended The Southeast Regional Programming Languages Seminar (SERPL).",
+        "image_url": "../assets/memories/group-photo-in-serpl-2023.jpeg",
+        "location": "Baltimore, USA",
+        "date": "14 Oct 2023",
+        "detail_page": "memories_details.html?group-photo-in-serpl-2023"
+    },
+    {
         "id": "23",
         "title": "Visited Johns Hopkins University",
         "description": "Visited Johns Hopkins University.",
