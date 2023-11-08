@@ -1,7 +1,12 @@
 [
     {
+        "id": "12",
+        "title": "Participated in the International Conference on Cryptology and Network Security (CANS)",
+        "date": "(Nov 2023)"
+    },
+    {
         "id": "11",
-        "title": "Attended The Southeast Regional Programming Languages Seminar 2023",
+        "title": "Participated in The Southeast Regional Programming Languages Seminar 2023",
         "date": "(Oct 2023)"
     },
     {
@@ -26,7 +31,7 @@
     },
     {
         "id": "6",
-        "title": "Attended the International Symposium on Distributed Computing (DISC) conference",
+        "title": "Participated in the International Symposium on Distributed Computing (DISC) conference",
         "date": "(Oct 2022)"
     },
     {
