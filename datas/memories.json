@@ -1,5 +1,14 @@
 [
     {
+        "id": "25",
+        "title": "Participated in the International Conference on Cryptology and Network Security (CANS 2023)",
+        "description": "Participated in the International Conference on Cryptology and Network Security (CANS 2023).",
+        "image_url": "../assets/memories/ramesh-adhikari-in-cans-2023.jpeg",
+        "location": "Augusta, Georgia, USA",
+        "date": "02 Nov 2023",
+        "detail_page": "memories_details.html?ramesh-adhikari-in-cans-2023"
+    },
+    {
         "id": "24",
         "title": "Attended The Southeast Regional Programming Languages Seminar (SERPL)",
         "description": "Attended The Southeast Regional Programming Languages Seminar (SERPL).",
