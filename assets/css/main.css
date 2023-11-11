@@ -408,3 +408,13 @@ body {
 		width: 52.333333%;
 	}
 }
+
+.custom-card-list {
+	background-color: #202123;
+    color: #fff;
+}
+
+.custom-card {
+	background-color: #202123;
+    color: #fff;
+}
