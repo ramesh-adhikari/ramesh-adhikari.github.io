@@ -368,3 +368,43 @@ a:link {
     --bs-alert-bg: #f4f6f9;
     --bs-alert-border-color: #dde0e4;
 }
+
+body {
+	background-color: #202123 !important;
+	color: #fff !important
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+    color: #fff;
+}
+
+.nav-link {
+	color: #fff;
+}
+
+.navbar {
+	background-color: #010914 !important;
+}
+
+.nav-link:focus, .nav-link:hover {
+	color: #fff;
+}
+
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 2.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    background-image: var(--bs-navbar-toggler-icon-bg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-color: #fff;
+}
+
+@media (min-width: 768px) {
+	.col-md-7 {
+		flex: 0 0 auto;
+		width: 52.333333%;
+	}
+}
