@@ -1,7 +1,7 @@
 [
     {
-        "id": "5",
-        "category": "Research Papers",
+        "id": "4",
+        "category": "Research guides",
         "useful_links": [
             {
                 "title": "Writing Good Software Engineering Research Papers",
@@ -11,7 +11,33 @@
           ]
     },
     {
-        "id": "4",
+        "id": "5",
+        "category": "Blogs",
+        "useful_links": [
+            {
+                "title": "Consistency Guarantees in Distributed Systems Explained Simply",
+                "description": "Kousik Nath",
+                "url": "https://kousiknath.medium.com/consistency-guarantees-in-distributed-systems-explained-simply-720caa034116"
+            },
+            {
+                "title": "E-voting system using blockchain and python",
+                "description": "Ramesh Adhikari",
+                "url": "https://medium.com/@adrameshadhikari95/e-voting-system-using-blockchain-and-python-1cc55f7463d0"
+            },
+            {
+                "title": "How to write clean code",
+                "description": "Ramesh Adhikari",
+                "url": "https://medium.com/@adrameshadhikari95/how-to-write-clean-code-9ba0c9e3cae5"
+            },
+            {
+                "title": "Algorithm and its complexity",
+                "description": "Ramesh Adhikari",
+                "url": "https://medium.com/@adrameshadhikari95/algorithm-and-its-complexity-7fa4359388d6"
+            }
+          ]
+    },
+    {
+        "id": "3",
         "category": "Websites",
         "useful_links": [
             {
@@ -22,28 +48,25 @@
           ]
     },
     {
-        "id": "3",
-        "category": "Blogs",
-        "useful_links": [
-            {
-                "title": "Consistency Guarantees in Distributed Systems Explained Simply",
-                "description": "Kousik Nath",
-                "url": "https://kousiknath.medium.com/consistency-guarantees-in-distributed-systems-explained-simply-720caa034116"
-            }
-          ]
-    },
-    {
         "id": "2",
         "category": "Presentation Videos",
         "useful_links": [
-           
+            {
+                "title": "To Be Updated...",
+                "description": "",
+                "url": ""
+            }
           ]
     },
     {
         "id": "1",
         "category": "General",
         "useful_links": [
-            
+            {
+                "title": "To Be Updated...",
+                "description": "",
+                "url": ""
+            }
           ]
     }
 ]
