@@ -1,0 +1,30 @@
+[
+    {
+        "id": "2",
+        "category": "Research Papers",
+        "useful_links": [
+            {
+                "title": "RapidChain: Scaling Blockchain via Full Sharding",
+                "description": "Mahdi Zamani, Mahnush Movahedi, Mariana Raykova "
+            },
+            {
+                "title": "Lockless Transaction Isolation in Hyperledger Fabric",
+                "description": "Hagar Meir, Artem Barger, Yacov Manevich, Yoav Tock"
+            }
+          ]
+    },
+    {
+        "id": "1",
+        "category": "Digital forensics with Blockchain",
+        "useful_links": [
+            {
+                "title": "RapidChain: Scaling Blockchain via Full Sharding",
+                "description": "Mahdi Zamani, Mahnush Movahedi, Mariana Raykova "
+            },
+            {
+                "title": "Lockless Transaction Isolation in Hyperledger Fabric",
+                "description": "Hagar Meir, Artem Barger, Yacov Manevich, Yoav Tock"
+            }
+          ]
+    }
+]

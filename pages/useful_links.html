@@ -8,14 +8,14 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-		<meta name="description" content="Ramesh Adhikari Presentations"/>
-		<meta name="keywords" content="presentation, presentation-ramesh-adhikari, rameshadhikari, RameshAdhikari, Ramesh Adhikari Presentations, Presentation, adhikari, magazine, Ramesh Adhikari youtube, Ramesh Adhikari github, Ramesh Adhikari augusta university, Ramesh Adhikari cv, Ramesh Adhikari portfolio, ramesh-adhikari, Ramesh-Adhikari, adramesh, radhikari, adhikari-ramesh, Adhikari Ramesh, Ramesh Adhikari Nepal, Augusta University, RADHIKARI"/>
+		<meta name="description" content="Ramesh Adhikari Useful Links"/>
+		<meta name="keywords" content="presentation, presentation-ramesh-adhikari, rameshadhikari, RameshAdhikari, Ramesh Adhikari Useful Links, Presentation, adhikari, magazine, Ramesh Adhikari youtube, Ramesh Adhikari github, Ramesh Adhikari augusta university, Ramesh Adhikari cv, Ramesh Adhikari portfolio, ramesh-adhikari, Ramesh-Adhikari, adramesh, radhikari, adhikari-ramesh, Adhikari Ramesh, Ramesh Adhikari Nepal, Augusta University, RADHIKARI"/>
 		
 		<meta name="author" content="Ramesh Adhikari" />
 		<meta name="copyright" content="Work protected by copyright; no distribution without permission." />
 		
 		<!-- Title + Icon -->
-		<title>Presentations | Ramesh Adhikari</title>
+		<title>Useful Links | Ramesh Adhikari</title>
 		<link rel="icon" type="image/x-icon" href="../assets/img/prof.jpg">
 
 		<!-- Improve SEO -->
@@ -166,13 +166,13 @@
 					</div>
 				</div>
 
-				<!-- Presentations -->
+				<!-- Useful Links -->
 				<div class="col-md-7 mb-5">
-					<h5>Presentations</h5>
+					<h5>Useful Links</h5>
 							<hr>
 					<div class="container" id="myData">
                         <script>
-                            fetch('../datas/presentations.json')
+                            fetch('../datas/useful_links.json')
                                 .then(function (response) {
                                     return response.json();
                                 })
@@ -188,12 +188,10 @@
                                 for (var i = 0; i < data.length; i++) {
                                     content += '<h6>'+data[i].category+'</h6>'
 									content += '<ul>'
-										papers = data[i].papers
-										for(var j = 0; j < papers.length; j++) {
-											content += '<li class="project-list"><a href="'+papers[j].paper_link+'" target="_blank">'+papers[j].title+'</a><br>'+papers[j].authors+'<br>Presented to '+papers[j].presented_to+', - '+papers[j].date+'.  [<a href="'+papers[j].presentation_slide_link+'" target="_blank">Slides</a>]'
-											if(!(papers[j].video_link=="NONE")) {
-												content += ' | [<a href="'+papers[j].video_link+'" target="_blank">Video</a>]';
-											}
+										useful_links = data[i].useful_links
+										for(var j = 0; j < useful_links.length; j++) {
+											content += '<li class="project-list"><a href="'+useful_links[j].paper_link+'" target="_blank">'+useful_links[j].title+'</a> - '+useful_links[j].description
+										
 											content += '</li>'
 										}
 									content += '</ul>'
