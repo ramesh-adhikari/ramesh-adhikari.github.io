@@ -61,7 +61,7 @@
         "image_url": "../assets/memories/ramesh-adhikari-with-chlebus-bogdan.jpeg",
         "location": "Augusta University, USA",
         "date": "7 Dec. 2022",
-        "detail_page": "memories-details?ramesh-adhikari-with-chlebus-bogdan"
+        "detail_page": "memories_details.html?ramesh-adhikari-with-chlebus-bogdan"
     },
     {
         "id": "18",
@@ -79,7 +79,7 @@
         "image_url": "../assets/memories/ramesh-adhikari-disc-conference.jpeg",
         "location": "Augusta University, USA",
         "date": "18 Oct. 2022",
-        "detail_page": "memories-details?ramesh-adhikari-disc-conference"
+        "detail_page": "memories_details.html?ramesh-adhikari-disc-conference"
 
     },
     {
@@ -89,7 +89,7 @@
         "image_url": "../assets/memories/ramesh-adhikari-first-meet-with-dr-costas-busch.jpeg",
         "location": "Georgia Cyber Center, USA",
         "date": "5 Aug. 2022",
-        "detail_page": "memories-details?ramesh-adhikari-first-meet-with-dr-costas-busch"
+        "detail_page": "memories_details.html?ramesh-adhikari-first-meet-with-dr-costas-busch"
     },
     {
         "id": "15",
@@ -98,7 +98,7 @@
         "image_url": "../assets/memories/ramesh-adhikari-first-time-at-gcc-building.jpeg",
         "location": "Georgia Cyber Center, USA",
         "date": "5 Aug. 2022",
-        "detail_page": "memories-details?ramesh-adhikari-first-time-at-gcc-building"
+        "detail_page": "memories_details.html?ramesh-adhikari-first-time-at-gcc-building"
     },
     {
         "id": "14",
@@ -107,7 +107,7 @@
         "image_url": "../assets/memories/ramesh-adhikari-infront-of-augusta-university.jpeg",
         "location": "Augusta University, USA",
         "date": "9 Aug. 2022",
-        "detail_page": "memories-details?ramesh-adhikari-infront-of-augusta-university"
+        "detail_page": "memories_details.html?ramesh-adhikari-infront-of-augusta-university"
     },
     {
         "id": "13",
@@ -116,7 +116,7 @@
         "image_url": "../assets/memories/ramesh-adhikari-leaving-country-for-the-first-time-to-pursue--phd.jpeg",
         "location": "KTM Airport, Nepal",
         "date": "3 Aug. 2022",
-        "detail_page": "memories-details?ramesh-adhikari-leaving-country-for-the-first-time-to-pursue-phd"
+        "detail_page": "memories_details.html?ramesh-adhikari-leaving-country-for-the-first-time-to-pursue-phd"
     },
     {
         "id": "12",
@@ -125,7 +125,7 @@
         "image_url": "../assets/memories/ramesh-adhikari-speech-masters-farewell-ncit.jpeg",
         "location": "Kathmandu, Nepal",
         "date": "8 Jul. 2022",
-        "detail_page": "memories-details?ramesh-adhikari-speech-masters-farewell-ncit"
+        "detail_page": "memories_details.html?ramesh-adhikari-speech-masters-farewell-ncit"
     },
     {
         "id": "11",
@@ -134,7 +134,7 @@
         "image_url": "../assets/memories/ramesh-adhikari-receiving-token-of-love-from-ncit.jpeg",
         "location": "Kathmandu, Nepal",
         "date": "8 Jul. 2022",
-        "detail_page": "memories-details?ramesh-adhikari-receiving-token-of-love-from-ncit"
+        "detail_page": "memories_details.html?ramesh-adhikari-receiving-token-of-love-from-ncit"
     },
     {
         "id": "10",
@@ -143,7 +143,7 @@
         "image_url": "../assets/memories/ramesh-adhikari-farewell-from-sanima-bank.jpeg",
         "location": "Kathmandu, Nepal",
         "date": "15 Jul. 2022",
-        "detail_page": "memories-details?ramesh-adhikari-farewell-from-sanima-bank"
+        "detail_page": "memories_details.html?ramesh-adhikari-farewell-from-sanima-bank"
     },
     {
         "id": "9",
@@ -152,7 +152,7 @@
         "image_url": "../assets/memories/ramesh-adhikari-working-at-sanima-bank.jpeg",
         "location": "Kathmandu, Nepal",
         "date": "29 Mar. 2021",
-        "detail_page": "memories-details?ramesh-adhikari-working-at-sanima-bank"
+        "detail_page": "memories_details.html?ramesh-adhikari-working-at-sanima-bank"
     },
     {
         "id": "8",
@@ -161,7 +161,7 @@
         "image_url": "../assets/memories/ramesh-adhikari-masters-thesis-final-defense-day.jpeg",
         "location": "Kathmandu, Nepal",
         "date": "29 Jan. 2021",
-        "detail_page": "memories-details?ramesh-adhikari-masters-thesis-final-defense-day"
+        "detail_page": "memories_details.html?ramesh-adhikari-masters-thesis-final-defense-day"
     },
     {
         "id": "7",
@@ -170,7 +170,7 @@
         "image_url": "../assets/memories/ramesh-adhikari-in-smartmobe-solution.jpeg",
         "location": "Kathmandu, Nepal",
         "date": "11 May 2019",
-        "detail_page": "memories-details?ramesh-adhikari-in-smartmobe-solution"
+        "detail_page": "memories_details.html?ramesh-adhikari-in-smartmobe-solution"
     },
     {
         "id": "5",
@@ -179,7 +179,7 @@
         "image_url": "../assets/memories/ramesh-adhikari-with-smartmobe-team.jpeg",
         "location": "Bandipur, Nepal",
         "date": "10 Feb. 2018",
-        "detail_page": "memories-details?ramesh-adhikari-with-smartmobe-team"
+        "detail_page": "memories_details.html?ramesh-adhikari-with-smartmobe-team"
     },
     {
         "id": "4",
@@ -188,7 +188,7 @@
         "image_url": "../assets/memories/ramesh-adhikari-kathford-farewell.jpeg",
         "location": "Lalitpur, Nepal",
         "date": "25 Dec. 2017",
-        "detail_page": "memories-details?ramesh-adhikari-kathford-farewell"
+        "detail_page": "memories_details.html?ramesh-adhikari-kathford-farewell"
     },
     {
         "id": "3",
@@ -197,7 +197,7 @@
         "image_url": "../assets/memories/ramesh-adhikari-with-mantra-ideas-team.jpeg",
         "location": "Chitlang, Nepal",
         "date": "31 July. 2017",
-        "detail_page": "memories-details?ramesh-adhikari-with-mantra-ideas-team"
+        "detail_page": "memories_details.html?ramesh-adhikari-with-mantra-ideas-team"
     },
     {
         "id": "2",
@@ -206,7 +206,7 @@
         "image_url": "../assets/memories/ramesh-adhikari-receiving-certificate-for-mentoring-kath-foss-software-competation-participants.jpeg",
         "location": "Lalitpur, Nepal",
         "date": "22 Jul. 2017",
-        "detail_page": "memories-details?ramesh-adhikari-receiving-certificate-for-mentoring-kath-foss-software-competation-participants"
+        "detail_page": "memories_details.html?ramesh-adhikari-receiving-certificate-for-mentoring-kath-foss-software-competation-participants"
     },
     {
         "id": "1",
@@ -215,7 +215,7 @@
         "image_url": "../assets/memories/ramesh-adhikari-kec-lite-software-competation.jpeg",
         "location": "Lalitpur, Nepal",
         "date": "27 Feb. 2015",
-        "detail_page": "memories-details?ramesh-adhikari-kec-lite-software-competation"
+        "detail_page": "memories_details.html?ramesh-adhikari-kec-lite-software-competation"
     }
 
 ]
