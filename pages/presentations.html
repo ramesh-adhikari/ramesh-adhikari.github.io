@@ -168,8 +168,8 @@
 
 				<!-- Presentations -->
 				<div class="col-md-7 mb-5">
-					<h5>Presentations</h5>
-							<hr>
+					<h6><b>Presentations</b></h6>
+							
 					<div class="container" id="myData">
                         <script>
                             fetch('../datas/presentations.json')
@@ -186,7 +186,7 @@
                                 content = ''
                                 var mainContainer = document.getElementById("myData");
                                 for (var i = 0; i < data.length; i++) {
-                                    content += '<h6>'+data[i].category+'</h6>'
+                                    content += '<h6>'+data[i].category+'</h6> <hr>'
 									content += '<ul>'
 										papers = data[i].papers
 										for(var j = 0; j < papers.length; j++) {

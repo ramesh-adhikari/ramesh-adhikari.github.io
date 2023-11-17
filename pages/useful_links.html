@@ -168,8 +168,8 @@
 
 				<!-- Useful Links -->
 				<div class="col-md-7 mb-5">
-					<h5>Useful Links</h5>
-							<hr>
+					<h6><b>Useful Links</b></h6>
+							
 					<div class="container" id="myData">
                         <script>
                             fetch('../datas/useful_links.json')
@@ -186,11 +186,11 @@
                                 content = ''
                                 var mainContainer = document.getElementById("myData");
                                 for (var i = 0; i < data.length; i++) {
-                                    content += '<h6>'+data[i].category+'</h6>'
+                                    content += '<h6>'+data[i].category+'</h6> <hr>'
 									content += '<ul>'
 										useful_links = data[i].useful_links
 										for(var j = 0; j < useful_links.length; j++) {
-											content += '<li class="project-list"><a href="'+useful_links[j].paper_link+'" target="_blank">'+useful_links[j].title+'</a> - '+useful_links[j].description
+											content += '<li class="project-list"><a href="'+useful_links[j].url+'" target="_blank">'+useful_links[j].title+'</a> - '+useful_links[j].description
 										
 											content += '</li>'
 										}
