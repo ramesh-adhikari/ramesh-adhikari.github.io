@@ -44,6 +44,16 @@
                 "title": "Decentralized Thoughts",
                 "description": "Algorithms, Distributed Computing, and Blockchains",
                 "url": "https://decentralizedthoughts.github.io/"
+            },
+            {
+                "title": "High Scalability",
+                "description": "Explores the architecture and practices behind scalable and high-performance systems",
+                "url": "http://highscalability.com/"
+            },
+            {
+                "title": "The Morning Paper",
+                "description": "Summaries and analyses of academic papers related to distributed systems and computer science",
+                "url": "https://blog.acolyer.org/"
             }
           ]
     },
@@ -52,9 +62,9 @@
         "category": "Videos",
         "useful_links": [
             {
-                "title": "To Be Updated...",
-                "description": "",
-                "url": ""
+                "title": "MIT 6.824 Distributed Systems",
+                "description": "Robert Morris",
+                "url": "https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB"
             }
           ]
     },
