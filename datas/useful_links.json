@@ -65,6 +65,11 @@
                 "title": "MIT 6.824 Distributed Systems",
                 "description": "Robert Morris",
                 "url": "https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB"
+            },
+            {
+                "title": "Distributed Systems in One Lesson ",
+                "description": "Tim Berglund",
+                "url": "https://www.youtube.com/watch?v=Y6Ev8GIlbxc&ab_channel=DevoxxPoland"
             }
           ]
     },
