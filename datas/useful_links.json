@@ -83,9 +83,9 @@
         "category": "General",
         "useful_links": [
             {
-                "title": "To Be Updated...",
-                "description": "",
-                "url": ""
+                "title": "Principles of Distributed Computing",
+                "description": "Roger Wattenhofer",
+                "url": "https://disco.ethz.ch/courses/fs09/distcomp/lecture/podc.pdf"
             }
           ]
     }
