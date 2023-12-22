@@ -9,10 +9,11 @@
                 "url": "https://www.cs.cmu.edu/~Compose/shaw-icse03.pdf" 
             },
             {
-                "title": "Actionable advice for researchers",
-                "description": "Hang Liu",
-                "url": "https://www.youtube.com/watch?v=g1cUcJ4DOdI&ab_channel=HangLiu" 
+                "title": "How to Read a Paper",
+                "description": "S. Keshav",
+                "url": "https://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf" 
             }
+           
           ]
     },
     {
@@ -59,6 +60,11 @@
                 "title": "The Morning Paper",
                 "description": "Summaries and analyses of academic papers related to distributed systems and computer science",
                 "url": "https://blog.acolyer.org/"
+            },
+            {
+                "title": "DISTRIBUTED SYSTEMS A free online class",
+                "description": "This is an introductory course in Distributed Systems",
+                "url": "https://www.distributedsystemscourse.com/"
             }
           ]
     },
@@ -75,6 +81,11 @@
                 "title": "Distributed Systems in One Lesson ",
                 "description": "Tim Berglund",
                 "url": "https://www.youtube.com/watch?v=Y6Ev8GIlbxc&ab_channel=DevoxxPoland"
+            },
+            {
+                "title": "Actionable advice for researchers",
+                "description": "Hang Liu",
+                "url": "https://www.youtube.com/watch?v=g1cUcJ4DOdI&ab_channel=HangLiu" 
             }
           ]
     },
