@@ -257,7 +257,7 @@ div {
    }
 
    .row {
-	font-size: 15px !important;
+	font-size: 14px !important;
 	line-height: 1.6 !important;
    }
 
@@ -432,11 +432,11 @@ body {
     --bs-table-hover-bg: rgba(0, 0, 0, 0.075);
     width: 100%;
     margin-bottom: 1rem;
-    color: #ffffff;
+    /* color: #ffffff; */
     vertical-align: top;
     border-color: var(--bs-table-border-color);
 }
 
 .thead-light {
-    background: #000914 !important;
+    /* background: #000914 !important; */
 }
