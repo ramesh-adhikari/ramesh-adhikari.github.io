@@ -370,24 +370,24 @@ a:link {
 }
 
 body {
-	background-color: #202123 !important;
-	color: #fff !important
+	/* background-color: #202123 !important;
+	color: #fff !important */
 }
 
 .navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
-    color: #fff;
+    /* color: #fff; */
 }
 
 .nav-link {
-	color: #fff;
+	/* color: #fff; */
 }
 
 .navbar {
-	background-color: #010914 !important;
+	/* background-color: #010914 !important; */
 }
 
 .nav-link:focus, .nav-link:hover {
-	color: #fff;
+	/* color: #fff; */
 }
 
 .navbar-toggler-icon {
