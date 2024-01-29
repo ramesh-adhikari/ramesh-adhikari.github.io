@@ -1,6 +1,6 @@
 [
     {
-        "id": "4",
+        "id": "5",
         "category": "Blockchain Related Papers",
         "papers": [
             {
@@ -33,7 +33,7 @@
           ]
     },
     {
-        "id": "3",
+        "id": "4",
         "category": "Digital forensics with Blockchain",
         "papers": [
             {
@@ -48,7 +48,7 @@
           ]
     },
     {
-        "id": "2",
+        "id": "3",
         "category": "Transactional Memory Related Papers",
         "papers": [
             {
@@ -72,7 +72,7 @@
           ]
     },
     {
-        "id": "1",
+        "id": "2",
         "category": "Computer Security Related Papers",
         "papers": [
             {
@@ -82,6 +82,21 @@
                 "date": "Nov, 2022",
                 "paper_link": "https://www.usenix.org/system/files/sec22-roth.pdf",
                 "presentation_slide_link": "../assets/documents/presentation/Advance_topics_in_comp_sci_presentation.pdf",
+                "video_link": "NONE"
+            }
+          ]
+    },
+    {
+        "id": "1",
+        "category": "Cloud COmputing",
+        "papers": [
+            {
+                "title": "Task Scheduling in Fog-Cloud Computing",
+                "authors": "",
+                "presented_to": "ADr. Costas Busch",
+                "date": "Jan, 2024",
+                "paper_link": "",
+                "presentation_slide_link": "../assets/documents/presentation/Task_Scheduling_in_Fog_Cloud_Computing.pdf",
                 "video_link": "NONE"
             }
           ]
