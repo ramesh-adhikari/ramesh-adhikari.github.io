@@ -68,9 +68,14 @@
 								Achievement and Participation
 							</a>
 						</li>
-						<li class="nav-item">
+						<!-- <li class="nav-item">
 							<a class="nav-link" id="tutorials" href="blogs.html">
 								Blogs
+							</a>
+						</li> -->
+						<li class="nav-item">
+							<a class="nav-link" id="tutorials" href="useful_links.html">
+								Useful Links
 							</a>
 						</li>
                         <li class="nav-item">
@@ -132,7 +137,7 @@
 						</div>
 
 						<div class="col-10">
-							<a href="../assets/documents/Ramesh_Adhikari_CV.pdf" class="link-dark" target="_blank">CV [Updated 11/2022]</a>
+							<a href="../assets/documents/Ramesh_Adhikari_CV.pdf"   target="_blank">  CV [Updated 03/2024]</a>
 						</div>
 					</div>
 
@@ -142,7 +147,7 @@
 						</div>
 
 						<div class="col-10">
-							<a href="mailto:radhikari@augusta.edu" class="link-dark">radhikari@augusta.edu</a>
+							<a href="mailto:radhikari@augusta.edu"  >radhikari@augusta.edu</a>
 						</div>
 					</div>
 
@@ -152,7 +157,7 @@
 						</div>
 
 						<div class="col-10">
-							<a href="https://www.linkedin.com/in/adramesh/" class="link-dark" target="_blank">LinkedIn</a>
+							<a href="https://www.linkedin.com/in/adramesh/"   target="_blank">LinkedIn</a>
 						</div>
 					</div>
 					<div class="row mb-2">
@@ -161,15 +166,15 @@
 						</div>
 
 						<div class="col-10">
-							<a href="https://github.com/ramesh-adhikari" class="link-dark" target="_blank">GitHub</a>
+							<a href="https://github.com/ramesh-adhikari"   target="_blank">GitHub</a>
 						</div>
 					</div>
 				</div>
 
 				<!-- Presentations -->
 				<div class="col-md-7 mb-5">
-					<h5>Presentations</h5>
-							<hr>
+					<p>This page contains some of the presentation slides I have drafted.</p>
+							
 					<div class="container" id="myData">
                         <script>
                             fetch('../datas/presentations.json')
@@ -186,7 +191,7 @@
                                 content = ''
                                 var mainContainer = document.getElementById("myData");
                                 for (var i = 0; i < data.length; i++) {
-                                    content += '<h5 class="h5-title">'+data[i].category+'</h5>'
+                                    content += '<br><h6>'+data[i].category+'</h6> <hr>'
 									content += '<ul>'
 										papers = data[i].papers
 										for(var j = 0; j < papers.length; j++) {

@@ -1,5 +1,41 @@
 [
     {
+        "id": "25",
+        "title": "Participated in the International Conference on Cryptology and Network Security (CANS 2023)",
+        "description": "Participated in the International Conference on Cryptology and Network Security (CANS 2023).",
+        "image_url": "../assets/memories/ramesh-adhikari-in-cans-2023.jpeg",
+        "location": "Augusta, Georgia, USA",
+        "date": "02 Nov 2023",
+        "detail_page": "memories_details.html?ramesh-adhikari-in-cans-2023"
+    },
+    {
+        "id": "24",
+        "title": "Group photo in The Southeast Regional Programming Languages Seminar (SERPL)",
+        "description": "Group photo in The Southeast Regional Programming Languages Seminar (SERPL).",
+        "image_url": "../assets/memories/group-photo-in-serpl-2023.jpeg",
+        "location": "Augusta, Georgia, USA",
+        "date": "14 Oct 2023",
+        "detail_page": "memories_details.html?group-photo-in-serpl-2023"
+    },
+    {
+        "id": "23",
+        "title": "Visited Johns Hopkins University",
+        "description": "Visited Johns Hopkins University.",
+        "image_url": "../assets/memories/visited-johns-hopkins-university.jpg",
+        "location": "Baltimore, USA",
+        "date": "24 July 2023",
+        "detail_page": "memories_details.html?visited-johns-hopkins-university"
+    },
+    {
+        "id": "22",
+        "title": "Presented our research paper at SIROCCO-2023",
+        "description": "Presented our research paper entitled 'Lockless Blockchain Sharding with Multiversion Control' at SIROCCO-2023.",
+        "image_url": "../assets/memories/ramesh-adhikari-paper-presentation-in-sirocco-2023.JPG",
+        "location": "Alcala, Madrid, Spain",
+        "date": "8 June 2023",
+        "detail_page": "memories_details.html?ramesh-adhikari-paper-presentation-in-sirocco-2023"
+    },
+    {
         "id": "21",
         "title": "With Dr. Gagan Agrawal and colleague at data science workshop",
         "description": "With Dr. Gagan Agrawal and colleague at data science workshop",
@@ -25,7 +61,7 @@
         "image_url": "../assets/memories/ramesh-adhikari-with-chlebus-bogdan.jpeg",
         "location": "Augusta University, USA",
         "date": "7 Dec. 2022",
-        "detail_page": "memories-details/ramesh-adhikari-with-chlebus-bogdan.html"
+        "detail_page": "memories_details.html?ramesh-adhikari-with-chlebus-bogdan"
     },
     {
         "id": "18",
@@ -43,7 +79,7 @@
         "image_url": "../assets/memories/ramesh-adhikari-disc-conference.jpeg",
         "location": "Augusta University, USA",
         "date": "18 Oct. 2022",
-        "detail_page": "memories-details/ramesh-adhikari-disc-conference.html"
+        "detail_page": "memories_details.html?ramesh-adhikari-disc-conference"
 
     },
     {
@@ -53,124 +89,124 @@
         "image_url": "../assets/memories/ramesh-adhikari-first-meet-with-dr-costas-busch.jpeg",
         "location": "Georgia Cyber Center, USA",
         "date": "5 Aug. 2022",
-        "detail_page": "memories-details/ramesh-adhikari-first-meet-with-dr-costas-busch.html"
+        "detail_page": "memories_details.html?ramesh-adhikari-first-meet-with-dr-costas-busch"
     },
     {
         "id": "15",
-        "title": "Ramesh Adhikari first day at Georgia Cyber Center, School of Computer and Cyber Sciences, Augusta University",
+        "title": "My first day at Georgia Cyber Center, School of Computer and Cyber Sciences, Augusta University",
         "description": "First day at Georgia Cyber Center, <a href='https://www.augusta.edu/ccs' target='_blank'>School of Computer and Cyber Sciences</a>, <a href='https://www.augusta.edu' target='_blank'>Augusta University</a>.",
         "image_url": "../assets/memories/ramesh-adhikari-first-time-at-gcc-building.jpeg",
         "location": "Georgia Cyber Center, USA",
         "date": "5 Aug. 2022",
-        "detail_page": "memories-details/ramesh-adhikari-first-time-at-gcc-building.html"
+        "detail_page": "memories_details.html?ramesh-adhikari-first-time-at-gcc-building"
     },
     {
         "id": "14",
-        "title": "Ramesh Adhikari, infront of the Augusta University",
+        "title": "Infront of the Augusta University",
         "description": "Infront of the <a href='https://www.augusta.edu/' target='_blank'>Augusta University</a>, for the first time.",
         "image_url": "../assets/memories/ramesh-adhikari-infront-of-augusta-university.jpeg",
         "location": "Augusta University, USA",
         "date": "9 Aug. 2022",
-        "detail_page": "memories-details/ramesh-adhikari-infront-of-augusta-university.html"
+        "detail_page": "memories_details.html?ramesh-adhikari-infront-of-augusta-university"
     },
     {
         "id": "13",
-        "title": "Ramesh Adhikari leaving his home country, Nepal, for the first time to pursue PhD in USA",
+        "title": "I left my home country, Nepal, for the first time to pursue a PhD in the USA",
         "description": "Leaving home country, Nepal, for the first time.",
         "image_url": "../assets/memories/ramesh-adhikari-leaving-country-for-the-first-time-to-pursue--phd.jpeg",
         "location": "KTM Airport, Nepal",
         "date": "3 Aug. 2022",
-        "detail_page": "memories-details/ramesh-adhikari-leaving-country-for-the-first-time-to-pursue-phd.html"
+        "detail_page": "memories_details.html?ramesh-adhikari-leaving-country-for-the-first-time-to-pursue-phd"
     },
     {
         "id": "12",
-        "title": "Ramesh Adhikari, delivered the speech at NCIT masters farewell program, on behalf of Master's students (Batch 2018-2019)",
+        "title": "Delivered the speech at NCIT masters farewell program, on behalf of Master's students (Batch 2018-2019)",
         "description": "Delivered the speech at <a href='https://ncit.edu.np/' target='_blank'> NCIT </a>masters farewell program, on behalf of Master's students (Batch 2018-2019).",
         "image_url": "../assets/memories/ramesh-adhikari-speech-masters-farewell-ncit.jpeg",
         "location": "Kathmandu, Nepal",
         "date": "8 Jul. 2022",
-        "detail_page": "memories-details/ramesh-adhikari-speech-masters-farewell-ncit.html"
+        "detail_page": "memories_details.html?ramesh-adhikari-speech-masters-farewell-ncit"
     },
     {
         "id": "11",
-        "title": "Ramesh Adhikari, Receiving the Token of love from Nepal College of Information Technology at farewell program",
+        "title": "Receiving the Token of love from Nepal College of Information Technology at farewell program",
         "description": "Receiving the Token of love from <a href='https://ncit.edu.np/' target='_blank'>Nepal College of Information Technology</a> at farewell program.",
         "image_url": "../assets/memories/ramesh-adhikari-receiving-token-of-love-from-ncit.jpeg",
         "location": "Kathmandu, Nepal",
         "date": "8 Jul. 2022",
-        "detail_page": "memories-details/ramesh-adhikari-receiving-token-of-love-from-ncit.html"
+        "detail_page": "memories_details.html?ramesh-adhikari-receiving-token-of-love-from-ncit"
     },
     {
         "id": "10",
-        "title": "Ramesh Adhikari, farewell program from Sanima Bank",
+        "title": "Farewell program from Sanima Bank",
         "description": "Farewell program from <a href='https://sanimabank.com/' target='_blank'>Sanima Bank</a>, IT department team.",
         "image_url": "../assets/memories/ramesh-adhikari-farewell-from-sanima-bank.jpeg",
         "location": "Kathmandu, Nepal",
         "date": "15 Jul. 2022",
-        "detail_page": "memories-details/ramesh-adhikari-farewell-from-sanima-bank.html"
+        "detail_page": "memories_details.html?ramesh-adhikari-farewell-from-sanima-bank"
     },
     {
         "id": "9",
-        "title": "Ramesh Adhikari, worked as a software Engineer at Sanima Bank",
+        "title": "Worked as a software Engineer at Sanima Bank",
         "description": "While working as a software Engineer at Sanima Bank.",
         "image_url": "../assets/memories/ramesh-adhikari-working-at-sanima-bank.jpeg",
         "location": "Kathmandu, Nepal",
         "date": "29 Mar. 2021",
-        "detail_page": "memories-details/ramesh-adhikari-working-at-sanima-bank.html"
+        "detail_page": "memories_details.html?ramesh-adhikari-working-at-sanima-bank"
     },
     {
         "id": "8",
-        "title": "Ramesh Adhikari  photo taken after final defense of master’s thesis at NCIT",
+        "title": "Photo taken after final defense of master’s thesis at NCIT",
         "description": " Photo taken after final defense of master’s thesis at <a href='https://ncit.edu.np/' target='_blank'>NCIT</a>",
         "image_url": "../assets/memories/ramesh-adhikari-masters-thesis-final-defense-day.jpeg",
         "location": "Kathmandu, Nepal",
         "date": "29 Jan. 2021",
-        "detail_page": "memories-details/ramesh-adhikari-masters-thesis-final-defense-day.html"
+        "detail_page": "memories_details.html?ramesh-adhikari-masters-thesis-final-defense-day"
     },
     {
         "id": "7",
-        "title": "Ramesh Adhikari, worked at Smartmobe Solution as a software Engineer",
+        "title": "Worked at Smartmobe Solution as a software Engineer",
         "description": "While Working at Smartmobe Solution as a software Engineer.",
         "image_url": "../assets/memories/ramesh-adhikari-in-smartmobe-solution.jpeg",
         "location": "Kathmandu, Nepal",
         "date": "11 May 2019",
-        "detail_page": "memories-details/ramesh-adhikari-in-smartmobe-solution.html"
+        "detail_page": "memories_details.html?ramesh-adhikari-in-smartmobe-solution"
     },
     {
         "id": "5",
-        "title": "Ramesh Adhikari, with Smartmobe Solution team",
+        "title": "With Smartmobe Solution team",
         "description": "With Smartmobe Solution team.",
         "image_url": "../assets/memories/ramesh-adhikari-with-smartmobe-team.jpeg",
         "location": "Bandipur, Nepal",
         "date": "10 Feb. 2018",
-        "detail_page": "memories-details/ramesh-adhikari-with-smartmobe-team.html"
+        "detail_page": "memories_details.html?ramesh-adhikari-with-smartmobe-team"
     },
     {
         "id": "4",
-        "title": "Ramesh Adhikari at Kathford College for farewell program",
+        "title": "At Kathford College for farewell program",
         "description": "At <a href='https://kathford.edu.np/' target='_blank'>Kathford</a> farewell program.",
         "image_url": "../assets/memories/ramesh-adhikari-kathford-farewell.jpeg",
         "location": "Lalitpur, Nepal",
         "date": "25 Dec. 2017",
-        "detail_page": "memories-details/ramesh-adhikari-kathford-farewell.html"
+        "detail_page": "memories_details.html?ramesh-adhikari-kathford-farewell"
     },
     {
         "id": "3",
-        "title": "Ramesh Adhikari with Mantra Ideas team",
+        "title": "With Mantra Ideas team",
         "description": "With <a href='https://www.mantraideas.com/' target='_blank'>Mantra Ideas</a> team.",
         "image_url": "../assets/memories/ramesh-adhikari-with-mantra-ideas-team.jpeg",
         "location": "Chitlang, Nepal",
         "date": "31 July. 2017",
-        "detail_page": "memories-details/ramesh-adhikari-with-mantra-ideas-team.html"
+        "detail_page": "memories_details.html?ramesh-adhikari-with-mantra-ideas-team"
     },
     {
         "id": "2",
-        "title": "Ramesh Adhikari received appreciation cretificate for monitored and guided the participants in EVOLVE 2.0 software competition",
+        "title": "Rreceived appreciation cretificate for monitored and guided the participants in EVOLVE 2.0 software competition",
         "description": " Received an certificate for monitoring and guiding the participants in EVOLVE-2 software competition.",
         "image_url": "../assets/memories/ramesh-adhikari-receiving-certificate-for-mentoring-kath-foss-software-competation-participants.jpeg",
         "location": "Lalitpur, Nepal",
         "date": "22 Jul. 2017",
-        "detail_page": "memories-details/ramesh-adhikari-receiving-certificate-for-mentoring-kath-foss-software-competation-participants.html"
+        "detail_page": "memories_details.html?ramesh-adhikari-receiving-certificate-for-mentoring-kath-foss-software-competation-participants"
     },
     {
         "id": "1",
@@ -179,7 +215,7 @@
         "image_url": "../assets/memories/ramesh-adhikari-kec-lite-software-competation.jpeg",
         "location": "Lalitpur, Nepal",
         "date": "27 Feb. 2015",
-        "detail_page": "memories-details/ramesh-adhikari-kec-lite-software-competation.html"
+        "detail_page": "memories_details.html?ramesh-adhikari-kec-lite-software-competation"
     }
 
 ]

@@ -67,9 +67,14 @@
 								Achievement and Participation
 							</a>
 						</li>
-						<li class="nav-item">
+						<!-- <li class="nav-item">
 							<a class="nav-link" id="tutorials" href="blogs.html">
 								Blogs
+							</a>
+						</li> -->
+						<li class="nav-item">
+							<a class="nav-link" id="tutorials" href="useful_links.html">
+								Useful Links
 							</a>
 						</li>
 						<li class="nav-item">
@@ -131,7 +136,7 @@
 						</div>
 
 						<div class="col-10">
-							<a href="../assets/documents/Ramesh_Adhikari_CV.pdf" class="link-dark" target="_blank">CV [Updated 11/2022]</a>
+							<a href="../assets/documents/Ramesh_Adhikari_CV.pdf"   target="_blank">  CV [Updated 03/2024]</a>
 						</div>
 					</div>
 
@@ -141,7 +146,7 @@
 						</div>
 
 						<div class="col-10">
-							<a href="mailto:radhikari@augusta.edu" class="link-dark">radhikari@augusta.edu</a>
+							<a href="mailto:radhikari@augusta.edu"  >radhikari@augusta.edu</a>
 						</div>
 					</div>
 
@@ -151,7 +156,7 @@
 						</div>
 
 						<div class="col-10">
-							<a href="https://www.linkedin.com/in/adramesh/" class="link-dark" target="_blank">LinkedIn</a>
+							<a href="https://www.linkedin.com/in/adramesh/"   target="_blank">LinkedIn</a>
 						</div>
 					</div>
 					<div class="row mb-2">
@@ -160,7 +165,7 @@
 						</div>
 
 						<div class="col-10">
-							<a href="https://github.com/ramesh-adhikari" class="link-dark" target="_blank">GitHub</a>
+							<a href="https://github.com/ramesh-adhikari"   target="_blank">GitHub</a>
 						</div>
 					</div>
 				</div>
@@ -183,11 +188,11 @@
                                 content = ''
                                 var mainContainer = document.getElementById("myData");
                                 for (var i = 0; i < data.length; i++) {
-                                    content += '<div class="row mt-2"><h5 class="pub-year-h2">'+data[i].year+'</h5><div class="pub-block">	<div class="trnsf-italic h6" style="font-size: 15px;">'+data[i].title+'</div>	<div class="pub-authors mt-1"><span class="pub-author"> '+data[i].authors+'</div>	<div class="">'+data[i].journal_name+'</div>	<div class="pub-link mt-1"><i class="far fa-file-pdf"></i> <a href="'+data[i].paper_link+'" target="_blank" class="link-dark">Paper Link</a>'
+                                    content += '<div class="row mt-2"><h5 class="pub-year-h2">'+data[i].year+'</h5><div class="pub-block">	<div class="trnsf-italic h6" style="font-size: 15px;">'+data[i].title+'</div>	<div class="pub-authors mt-1"><span class="pub-author"> '+data[i].authors+'</div>	<div class="">'+data[i].journal_name+'</div>	<div class="pub-link mt-1"><i class="far fa-file-pdf"></i> <a href="'+data[i].paper_link+'" target="_blank"  >Paper Link</a>'
 									if(!(data[i].presentation_slides_link =='NONE'))
-										content += '  |<span class="pub-force-margin-left"><i class="fa-solid fa-presentation-screen"></i> <a href="'+data[i].presentation_slides_link+'" target="_blank"  class="link-dark">Presentation Slides</a></span>'
+										content += '  |<span class="pub-force-margin-left"><i class="fa-solid fa-presentation-screen"></i> <a href="'+data[i].presentation_slides_link+'" target="_blank"   >Presentation Slides</a></span>'
 									if(!(data[i].github_code_link =='NONE'))
-										content += '  |<span class="pub-force-margin-left"><i class="fab fa-github" aria-hidden="true"></i> <a href="'+data[i].presentation_slides_link+'" target="_blank"  class="link-dark">GitHub Code</a></span>'
+										content += '  |<span class="pub-force-margin-left"><i class="fab fa-github" aria-hidden="true"></i> <a href="'+data[i].presentation_slides_link+'" target="_blank"   >GitHub Code</a></span>'
 									content += '</div></div></div>'
                                 }
                                 mainContainer.innerHTML = content

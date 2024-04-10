@@ -2,13 +2,16 @@
 	--t-color: #D8DEE9;
 	--h-color: #ffff;
 
-	--bg-color: #383838;
+	--bg-color: #000;
 	--nv-color: #121212;
 }
 
 body {
-	background-color: var(--bg-color);
+	/* background-color: var(--bg-color);
 	color: var(--t-color)
+	 */
+	 background-color: #000 !important;
+	color: #fff !important
 }
 
 h1, h2, h3, h4, b {

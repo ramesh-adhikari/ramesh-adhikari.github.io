@@ -1,32 +1,67 @@
 [
     {
+        "id": "13",
+        "title": "Received $650 NSF Student Travel Awards for CANS conference",
+        "date": "(Nov 2023)"
+    },
+    {
+        "id": "12",
+        "title": "Participated in International Conference on Cryptology and Network Security (CANS)",
+        "date": "(Nov 2023)"
+    },
+    {
+        "id": "11",
+        "title": "Participated in The Southeast Regional Programming Languages Seminar 2023",
+        "date": "(Oct 2023)"
+    },
+    {
+        "id": "10",
+        "title": "Presented a paper at the 30th International Colloquium on Structural Information and Communication Complexity (SIROCCO 2023) in Alcala De Henares, Madrid, Spain",
+        "date": "(June 2023)"
+    },
+    {
+        "id": "9",
+        "title": "Received $1000 travel award from Augusta University, for SIROCCO 2023 conference",
+        "date": "(Mar 2023)"
+    },
+    {
+        "id": "8",
+        "title": "Presented a poster at the 3rd annual workshop on Emerging Data Science Methods for Complex Biomedical and Cyber Data at Augusta University",
+        "date": "(Mar 2023)"
+    },
+    {
+        "id": "7",
+        "title": "Received $100 NSF travel award for Data Science Workshop at <a href='https://www.augusta.edu/' target='_blank'> Augusta University</a>",
+        "date": "(Feb 2023)"
+    },
+    {
         "id": "6",
-        "title": "Presented poster at <b>3rd annual workshop on Emerging Data Science Methods for Complex Biomedical and Cyber Data</b> at Augusta University, received a travel award of $100 to cover registration fee, funded by NSF",
-        "date": "March, 2023"
+        "title": "Participated in International Symposium on Distributed Computing (DISC) conference",
+        "date": "(Oct 2022)"
     },
     {
         "id": "5",
-        "title": "Participated in <b>International Symposium on Distributed Computing (DISC) conference</b>, received $340 award for registration from <a href='https://www.augusta.edu' target='_blank'>Augusta University</a>, funded by National Science Foundation (NSF)",
-        "date": "October, 2022"
+        "title": "Received $340 NSF travel award for the (DISC) conference",
+        "date": "(Oct 2022)"
     },
     {
         "id": "4",
-        "title": "Received <b>Star Performance Excellence Award</b>, <a href='https://www.sanimabank.com/' target='_blank'> Sanima Bank Ltd</a>",
-        "date": "2021"
+        "title": "Received the Star Performance Excellence Award at <a href='https://www.sanimabank.com/' target='_blank'> Sanima Bank Ltd</a>",
+        "date": "(2021)"
     },
     {
         "id": "3",
-        "title": "Received <b>Full Scholarship</b>, for Master of Science in Computer Engineering from <a href='https://pu.edu.np/' target='_blank'>Pokhara  University</a>",
-        "date": "2018"
+        "title": "Received a full scholarship for a Master's degree program at <a href='https://pu.edu.np/' target='_blank'> Pokhara University</a>",
+        "date": "(2018)"
     },
     {
         "id": "2",
-        "title": "Worked as a member of Kathford FOSS Community in <a href='https://kathford.edu.np/' target='_blank'>Kathford Int’l college</a>, monitored and guided the participants in EVOLVE( ) 2.0 <b>software competition</b>",
-        "date": "2017"
+        "title": "Served as a member of the Kathford FOSS Community at <a href ='https://kathford.edu.np/' target='_blank '>Kathford International College</a>, guiding participants in the EVOLVE 2.0 software competition",
+        "date": "(2017)"
     },
     {
         "id": "1",
-        "title": "First Runner Up in <b>National Lite Coding Competition</b> at <a href='https://kec.edu.np/'' target='_blank'>Kantipur engineering</a> college",
-        "date": "2015"
+        "title": "Achieved First Runner-Up in a software competition at <a href='https://kec.edu.np/'  target='_blank'>Kantipur engineering</a>",
+        "date": "(2015)"
     }
 ]

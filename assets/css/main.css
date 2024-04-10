@@ -41,8 +41,8 @@ li > .active {
 }
 
 .memories-image{
-	width:215px;
-	height: 200px;
+	width:255px;
+	height: 255px;
 }
 
 /* NICOLAS MESEGUER CONTACT INFO - Related*/
@@ -253,11 +253,12 @@ div {
   }
 
   * {
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	/* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+	font-family: "Times New Roman", Times, serif;
    }
 
    .row {
-	font-size: 15px !important;
+	font-size: 14px !important;
 	line-height: 1.6 !important;
    }
 
@@ -296,9 +297,9 @@ div {
     border-radius: 0.25em;
 }
 
-.thead-light{
+/* .thead-light{
 	background: #eee;
-}
+} */
 
 .custom-card{
 	position: relative;
@@ -367,4 +368,88 @@ a:link {
     --bs-alert-color: #010914;
     --bs-alert-bg: #f4f6f9;
     --bs-alert-border-color: #dde0e4;
+}
+
+body {
+	/* background-color: #202123 !important;
+	color: #fff !important */
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+    /* color: #fff; */
+}
+
+.nav-link {
+	/* color: #fff; */
+}
+
+.navbar {
+	/* background-color: #010914 !important; */
+}
+
+.nav-link:focus, .nav-link:hover {
+	/* color: #fff; */
+}
+
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 2.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    background-image: var(--bs-navbar-toggler-icon-bg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-color: #fff;
+}
+
+@media (min-width: 768px) {
+	.col-md-7 {
+		flex: 0 0 auto;
+		width: 52.333333%;
+	}
+}
+
+.custom-card-list {
+	/* background-color: #202123 !important;
+    color: #fff !important; */
+}
+
+.custom-card {
+	/* background-color: #202123 !important;
+    color: #fff !important; */
+}
+
+.table {
+    --bs-table-color: var(--bs-body-color);
+    --bs-table-bg: transparent;
+    --bs-table-border-color: var(--bs-border-color);
+    --bs-table-accent-bg: transparent;
+    --bs-table-striped-color: var(--bs-body-color);
+    --bs-table-striped-bg: rgba(0, 0, 0, 0.05);
+    --bs-table-active-color: var(--bs-body-color);
+    --bs-table-active-bg: rgba(0, 0, 0, 0.1);
+    --bs-table-hover-color: var(--bs-body-color);
+    --bs-table-hover-bg: rgba(0, 0, 0, 0.075);
+    width: 100%;
+    margin-bottom: 1rem;
+    /* color: #ffffff; */
+    vertical-align: top;
+    border-color: var(--bs-table-border-color);
+}
+
+.thead-light {
+    /* background: #000914 !important; */
+}
+
+.h6, h6 {
+    font-size: 0.9rem;
+}
+
+hr {
+    /* margin: 1rem 0; */
+    color: inherit;
+    border: 0;
+    border-top: 1px solid;
+    opacity: .25;
 }

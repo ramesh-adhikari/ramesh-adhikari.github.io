@@ -68,9 +68,14 @@
 								Achievement and Participation
 							</a>
 						</li>
-						<li class="nav-item">
+						<!-- <li class="nav-item">
 							<a class="nav-link" id="tutorials" href="blogs.html">
 								Blogs
+							</a>
+						</li> -->
+						<li class="nav-item">
+							<a class="nav-link" id="tutorials" href="useful_links.html">
+								Useful Links
 							</a>
 						</li>
                         <li class="nav-item">
@@ -132,7 +137,7 @@
 						</div>
 
 						<div class="col-10">
-							<a href="../assets/documents/Ramesh_Adhikari_CV.pdf" class="link-dark" target="_blank">CV [Updated 11/2022]</a>
+							<a href="../assets/documents/Ramesh_Adhikari_CV.pdf"   target="_blank">  CV [Updated 03/2024]</a>
 						</div>
 					</div>
 
@@ -142,7 +147,7 @@
 						</div>
 
 						<div class="col-10">
-							<a href="mailto:radhikari@augusta.edu" class="link-dark">radhikari@augusta.edu</a>
+							<a href="mailto:radhikari@augusta.edu"  >radhikari@augusta.edu</a>
 						</div>
 					</div>
 
@@ -152,7 +157,7 @@
 						</div>
 
 						<div class="col-10">
-							<a href="https://www.linkedin.com/in/adramesh/" class="link-dark" target="_blank">LinkedIn</a>
+							<a href="https://www.linkedin.com/in/adramesh/"   target="_blank">LinkedIn</a>
 						</div>
 					</div>
 					<div class="row mb-2">
@@ -161,13 +166,13 @@
 						</div>
 
 						<div class="col-10">
-							<a href="https://github.com/ramesh-adhikari" class="link-dark" target="_blank">GitHub</a>
+							<a href="https://github.com/ramesh-adhikari"   target="_blank">GitHub</a>
 						</div>
 					</div>
 				</div>
 
 				<!-- Memories -->
-				<div class="col-md-7 mb-5">
+				<div class="col-md-8 mb-5">
                    <!--  <p>Thanks to the memory-preservation power of photography, I can reflect on my life and remember its most memorable moments. My struggles and every memory give me the strength to be great every time. Here are some of my captured memories! </p> -->
 					<div class="row" id="myData">
                         <script>
@@ -185,7 +190,7 @@
                                 content = ''
                                 var mainContainer = document.getElementById("myData");
                                 for (var i = 0; i < data.length; i++) {
-                                    content += '<div class="col-md-4"><div class="custom-card-list"><div class="thumbnail"><a href="'+data[i].detail_page+'"><img src="'+data[i].image_url+'" class="memories-image"  alt="'+data[i].title+'"></a></div><p class="justify">'+data[i].description+'</p><div class="blog-info"><div class="d-inline"><i class="fal fa-map-marker-alt" aria-hidden="true"></i> '+data[i].location+'</div><div class="float-end d-inline"><i class="fa-light fa-calendar" aria-hidden="true"></i> '+data[i].date+'</div></div></div></div>'
+                                    content += '<div class="col-md-4"><div class="custom-card-list"><div class="thumbnail"><a href="'+data[i].detail_page+'"><img src="'+data[i].image_url+'" class="memories-image"  alt="'+data[i].title+'"></a></div><p class="justify">'+data[i].title+'</p><div class="blog-info"><div class="d-inline"><i class="fal fa-map-marker-alt" aria-hidden="true"></i> '+data[i].location+'</div><div class="float-end d-inline"><i class="fa-light fa-calendar" aria-hidden="true"></i> '+data[i].date+'</div></div></div></div>'
                                 }
                                 mainContainer.innerHTML = content
                             }

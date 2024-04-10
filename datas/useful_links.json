@@ -1,0 +1,108 @@
+[
+    {
+        "id": "4",
+        "category": "Research guides",
+        "useful_links": [
+            {
+                "title": "Writing Good Software Engineering Research Papers",
+                "description": "Mary Shaw",
+                "url": "https://www.cs.cmu.edu/~Compose/shaw-icse03.pdf" 
+            },
+            {
+                "title": "How to Read a Paper",
+                "description": "S. Keshav",
+                "url": "https://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf" 
+            },
+            {
+                "title": "Five Simple Rules to Avoid Plagiarism",
+                "description": "Holly Ober <em>et al.</em>",
+                "url": "https://link.springer.com/article/10.1007/s10439-012-0662-9" 
+            }
+           
+          ]
+    },
+    {
+        "id": "5",
+        "category": "Blogs",
+        "useful_links": [
+            {
+                "title": "Consistency Guarantees in Distributed Systems Explained Simply",
+                "description": "Kousik Nath",
+                "url": "https://kousiknath.medium.com/consistency-guarantees-in-distributed-systems-explained-simply-720caa034116"
+            },
+            {
+                "title": "E-voting system using blockchain and python",
+                "description": "Ramesh Adhikari",
+                "url": "https://medium.com/@adrameshadhikari95/e-voting-system-using-blockchain-and-python-1cc55f7463d0"
+            },
+            {
+                "title": "How to write clean code",
+                "description": "Ramesh Adhikari",
+                "url": "https://medium.com/@adrameshadhikari95/how-to-write-clean-code-9ba0c9e3cae5"
+            },
+            {
+                "title": "Algorithm and its complexity",
+                "description": "Ramesh Adhikari",
+                "url": "https://medium.com/@adrameshadhikari95/algorithm-and-its-complexity-7fa4359388d6"
+            }
+          ]
+    },
+    {
+        "id": "3",
+        "category": "Websites",
+        "useful_links": [
+            {
+                "title": "Decentralized Thoughts",
+                "description": "Algorithms, Distributed Computing, and Blockchains",
+                "url": "https://decentralizedthoughts.github.io/"
+            },
+            {
+                "title": "High Scalability",
+                "description": "Explores the architecture and practices behind scalable and high-performance systems",
+                "url": "http://highscalability.com/"
+            },
+            {
+                "title": "The Morning Paper",
+                "description": "Summaries and analyses of academic papers related to distributed systems and computer science",
+                "url": "https://blog.acolyer.org/"
+            },
+            {
+                "title": "DISTRIBUTED SYSTEMS A free online class",
+                "description": "This is an introductory course in Distributed Systems",
+                "url": "https://www.distributedsystemscourse.com/"
+            }
+          ]
+    },
+    {
+        "id": "2",
+        "category": "Videos",
+        "useful_links": [
+            {
+                "title": "MIT 6.824 Distributed Systems",
+                "description": "Robert Morris",
+                "url": "https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB"
+            },
+            {
+                "title": "Distributed Systems in One Lesson ",
+                "description": "Tim Berglund",
+                "url": "https://www.youtube.com/watch?v=Y6Ev8GIlbxc&ab_channel=DevoxxPoland"
+            },
+            {
+                "title": "Actionable advice for researchers",
+                "description": "Hang Liu",
+                "url": "https://www.youtube.com/watch?v=g1cUcJ4DOdI&ab_channel=HangLiu" 
+            }
+          ]
+    },
+    {
+        "id": "1",
+        "category": "General",
+        "useful_links": [
+            {
+                "title": "Principles of Distributed Computing",
+                "description": "Roger Wattenhofer",
+                "url": "https://disco.ethz.ch/courses/fs09/distcomp/lecture/podc.pdf"
+            }
+          ]
+    }
+]
