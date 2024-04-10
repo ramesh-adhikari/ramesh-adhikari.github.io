@@ -172,6 +172,7 @@
 
 				<!-- Publications -->
 				<div class="col-md-7 mb-5">
+					<h5 style="margin-left:10px">Publications</h5>
 					<div class="container" id="myData">
                         <script>
                             fetch('../datas/publications.json')
@@ -184,16 +185,25 @@
                                 .catch(function (err) {
                                     console.log('error: ' + err);
                                 });
-                            function appendData(data) {
+                            
+							function appendData(data) {
                                 content = ''
                                 var mainContainer = document.getElementById("myData");
                                 for (var i = 0; i < data.length; i++) {
-                                    content += '<div class="row mt-2"><h5 class="pub-year-h2">'+data[i].year+'</h5><div class="pub-block">	<div class="trnsf-italic h6" style="font-size: 15px;">'+data[i].title+'</div>	<div class="pub-authors mt-1"><span class="pub-author"> '+data[i].authors+'</div>	<div class="">'+data[i].journal_name+'</div>	<div class="pub-link mt-1"><i class="far fa-file-pdf"></i> <a href="'+data[i].paper_link+'" target="_blank"  >Paper Link</a>'
-									if(!(data[i].presentation_slides_link =='NONE'))
-										content += '  |<span class="pub-force-margin-left"><i class="fa-solid fa-presentation-screen"></i> <a href="'+data[i].presentation_slides_link+'" target="_blank"   >Presentation Slides</a></span>'
-									if(!(data[i].github_code_link =='NONE'))
-										content += '  |<span class="pub-force-margin-left"><i class="fab fa-github" aria-hidden="true"></i> <a href="'+data[i].presentation_slides_link+'" target="_blank"   >GitHub Code</a></span>'
-									content += '</div></div></div>'
+                                    content += '<div class="separator">'+data[i].year+'</div>'
+									content += '<ul>'
+										papers = data[i].papers
+										for(var j = 0; j < papers.length; j++) {
+											content += '<li class="project-list"><a href="'+papers[j].paper_link+'" target="_blank">'+papers[j].title+'</a><br>'+papers[j].authors+'</br><div class="">'+papers[j].journal_name+'</div>'
+												if(!(papers[i].presentation_slides_link =='NONE'))
+													content += '<span><i class="fa-solid fa-presentation-screen"></i> <a href="'+papers[j].presentation_slides_link+'" target="_blank"   >Presentation Slides</a></span>'
+												if(!(papers[i].github_code_link =='NONE'))
+													content += '  |<span class="pub-force-margin-left"><i class="fab fa-github" aria-hidden="true"></i> <a href="'+papers[j].presentation_slides_link+'" target="_blank"   >GitHub Code</a></span><br>'
+											if(papers.length-1>j)
+												content += '<br>'
+											content += '</li>'
+										}
+									content += '</ul>'
                                 }
                                 mainContainer.innerHTML = content
                             }

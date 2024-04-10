@@ -453,3 +453,25 @@ hr {
     border-top: 1px solid;
     opacity: .25;
 }
+
+.separator {
+	display: flex;
+	align-items: center;
+	text-align: center;
+	color: rgb(21 21 21 / 50%);
+  }
+  
+  .separator::before,
+  .separator::after {
+	content: '';
+	flex: 1;
+	border-bottom: 1px solid rgb(21 21 21 / 50%);
+  }
+  
+  .separator:not(:empty)::before {
+	margin-right: .25em;
+  }
+  
+  .separator:not(:empty)::after {
+	margin-left: .25em;
+  }
