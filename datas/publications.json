@@ -4,6 +4,14 @@
         "year": "2024",
         "papers": [
             {
+                "title": "<a href='https://arxiv.org/abs/2405.15015' target='_blank'>Fast Transaction Scheduling in Blockchain Sharding</a>",
+                "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Miroslav Popovic",
+                "journal_name": "Preprint: Arxiv",
+                "paper_link": "https://arxiv.org/abs/2405.15015",
+                "presentation_slides_link": "NONE",
+                "github_code_link":"NONE"
+            },
+            {
                 "title": "<a href='https://arxiv.org/abs/2404.04438' target='_blank'> Stable Blockchain Sharding under Adversarial Transaction Generation</a>",
                 "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Dariusz Kowalski",
                 "journal_name": "ACM Symposium on Parallelism in Algorithms and Architectures (SPAA 2024)",
