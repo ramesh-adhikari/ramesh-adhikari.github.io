@@ -3,10 +3,10 @@
         "id": "26",
         "title": "Presented our research paper at SPAA-2024",
         "description": "Presented our research paper entitled 'Stable Blockchain Sharding under Adversarial Transaction Generation' at The 36th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA ’24).",
-        "image_url": "../assets/memories/spaa-presnetation.png",
+        "image_url": "../assets/memories/spaa2024-presentation.jpg",
         "location": "Nantes, France",
         "date": "20 June 2024",
-        "detail_page": "memories_details.html?spaa-presnetation"
+        "detail_page": "memories_details.html?spaa2024-presnetation"
     },
     {
         "id": "25",
