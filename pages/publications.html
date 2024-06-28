@@ -204,9 +204,9 @@
 										papers = data[i].papers
 										for(var j = 0; j < papers.length; j++) {
 											content += '<li class="project-list"><a href="'+papers[j].paper_link+'" target="_blank">'+papers[j].title+'</a><br>'+papers[j].authors+'</br><div class="">'+papers[j].journal_name+'</div>'
-												if(!(papers[i].presentation_slides_link =='NONE'))
+												if(!(papers[j].presentation_slides_link =='NONE'))
 													content += '<span><i class="fa-solid fa-presentation-screen"></i> <a href="'+papers[j].presentation_slides_link+'" target="_blank">Slides</a></span>'
-												if(!(papers[i].github_code_link =='NONE'))
+												if(!(papers[j].github_code_link =='NONE'))
 													content += '  |<span class="pub-force-margin-left"><i class="fab fa-github" aria-hidden="true"></i> <a href="'+papers[j].presentation_slides_link+'" target="_blank"   >GitHub Code</a></span><br>'
 											if(papers.length-1>j)
 												content += '<br>'
