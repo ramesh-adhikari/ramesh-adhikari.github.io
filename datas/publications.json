@@ -16,7 +16,7 @@
                 "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Dariusz Kowalski",
                 "journal_name": "ACM Symposium on Parallelism in Algorithms and Architectures (SPAA 2024)",
                 "paper_link": "https://arxiv.org/abs/2404.04438",
-                "presentation_slides_link": "NONE",
+                "presentation_slides_link": "../assets/documents/presentation/SPAA2024-Stable-Blockchain.pptx",
                 "github_code_link":"NONE"
             }
         ]
