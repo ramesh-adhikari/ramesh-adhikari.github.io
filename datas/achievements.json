@@ -1,6 +1,11 @@
 [
     {
-        "id": "14",
+        "id": "16",
+        "title": "Presented a paper at The 36th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA 2024) in June 17—21, 2024, in Nantes, France",
+        "date": "(June 2024)"
+    },
+    {
+        "id": "15",
         "title": "Received $1000 NSF travel award from SPAA 2024, to present paper in The 36th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA 2024), Nantes, France",
         "date": "(May 2024)"
     },
