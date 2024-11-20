@@ -6,7 +6,7 @@
             {
                 "title": "<a href='https://dl.acm.org/doi/abs/10.1145/3626183.3659970' target='_blank'> Stable Blockchain Sharding under Adversarial Transaction Generation</a>",
                 "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Dariusz Kowalski",
-                "journal_name": "ACM Symposium on Parallelism in Algorithms and Architectures (SPAA 2024)",
+                "journal_name": "Proceedings of the 36th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA 2024)",
                 "paper_link": "https://dl.acm.org/doi/abs/10.1145/3626183.3659970",
                 "presentation_slides_link": "../assets/documents/presentation/SPAA2024-Stable-Blockchain.pdf",
                 "github_code_link":"NONE"
