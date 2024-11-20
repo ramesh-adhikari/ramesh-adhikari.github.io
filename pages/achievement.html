@@ -231,11 +231,12 @@
 									}
                                    
 									content += '<ul>'
-										// console.log(data[i])
+										console.log(content)
 										
 										datas = data[i].datas
 										// console.log(datas)
 										for(var j = 0; j < datas.length; j++) {
+											console.log(datas[j].title)
 											content += '<li class="achievement-list">'+datas[j].title+' '+datas[j].date+'</li>'
 										}
 									content += '</ul>'
