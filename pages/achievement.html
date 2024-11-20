@@ -183,32 +183,6 @@
 				<div class="col-md-7 mb-5">
 					<div class="container" id="myData">
 						
-						<!-- <h6 style="margin-left:20px"><b>ACADEMIC AWARDS, FELLOWSHIPS & SCHOLARSHIPS</b></h6>
-						<hr>
-							<ul id="myData"> 
-								
-									<script>
-										fetch('../datas/awards.json')
-											.then(function (response) {
-												return response.json();
-											})
-											.then(function (data1) {
-												appendData(data1);
-											})
-											.catch(function (err) {
-												console.log('error: ' + err);
-											});
-										function appendData(data1) {
-											content1 = ''
-											var mainContainer = document.getElementById("myData");
-											for (var i = 0; i < data1.length; i++) {
-												content += '<li class="achievement-list">'+data1[i].title+' '+data1[i].date+'</li>'
-											}
-											mainContainer.innerHTML = content
-										}
-									</script>
-							</ul> -->
-						
 						<script>
 							fetch('../datas/achievements.json')
                                 .then(function (response) {
@@ -231,10 +205,8 @@
 									}
                                    
 									content += '<ul>'
-										console.log(content)
 										
 										datas = data[i].datas
-										// console.log(datas)
 										for(var j = 0; j < datas.length; j++) {
 											console.log(datas[j].title)
 											content += '<li class="achievement-list">'+datas[j].title+' '+datas[j].date+'</li>'
