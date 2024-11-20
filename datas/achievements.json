@@ -1,30 +1,15 @@
 [
     {
-        "id": "8",
-        "title": "Paper presented at the 36th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA 2024) in Nantes, France",
-        "date": "(June 2024)"
-    },
-    {
-        "id": "7",
+        "id": "5",
         "title": "Participated in International Conference on Cryptology and Network Security (CANS)",
         "date": "(Nov 2023)"
     },
     {
-        "id": "6",
+        "id": "4",
         "title": "Participated in The Southeast Regional Programming Languages Seminar",
         "date": "(Oct 2023)"
     },
-    {
-        "id": "5",
-        "title": "Paper presented at the 30th International Colloquium on Structural Information and Communication Complexity (SIROCCO), Spain",
-        "date": "(June 2023)"
-    },
     
-    {
-        "id": "4",
-        "title": "Presented a poster at the 3rd annual workshop on Emerging Data Science Methods for Complex Biomedical and Cyber Data at Augusta University",
-        "date": "(Mar 2023)"
-    },
     
     {
         "id": "3",
