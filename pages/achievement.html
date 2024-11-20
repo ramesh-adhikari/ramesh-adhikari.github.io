@@ -183,9 +183,32 @@
 				<div class="col-md-7 mb-5">
 					<div class="container">
 						
-
-						<h5 style="margin-left:20px">Achievement and Participation</h5>
+						<h6 style="margin-left:20px"><b>ACADEMIC AWARDS, FELLOWSHIPS & SCHOLARSHIPS</b></h6>
+							<ul id="myData"> 
+								
+									<script>
+										fetch('../datas/awards.json')
+											.then(function (response) {
+												return response.json();
+											})
+											.then(function (data) {
+												appendData(data);
+											})
+											.catch(function (err) {
+												console.log('error: ' + err);
+											});
+										function appendData(data) {
+											content = ''
+											var mainContainer = document.getElementById("myData");
+											for (var i = 0; i < data.length; i++) {
+												content += '<li class="achievement-list">'+data[i].title+' '+data[i].date+'</li>'
+											}
+											mainContainer.innerHTML = content
+										}
+									</script>
+							</ul>
 						
+							<h6 style="margin-left:20px"><b>ACHIEVEMENTS AND PARTICIPATION</b></h6>
 							<ul id="myData"> 
 								
 									<script>
