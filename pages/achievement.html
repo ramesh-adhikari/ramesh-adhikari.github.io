@@ -183,7 +183,7 @@
 				<div class="col-md-7 mb-5">
 					<div class="container">
 						
-						<h6 style="margin-left:20px"><b>ACADEMIC AWARDS, FELLOWSHIPS & SCHOLARSHIPS</b></h6>
+						<!-- <h6 style="margin-left:20px"><b>ACADEMIC AWARDS, FELLOWSHIPS & SCHOLARSHIPS</b></h6>
 						<hr>
 							<ul id="myData"> 
 								
@@ -202,38 +202,44 @@
 											content1 = ''
 											var mainContainer = document.getElementById("myData");
 											for (var i = 0; i < data1.length; i++) {
-												content1 += '<li class="achievement-list">'+data1[i].title+' '+data1[i].date+'</li>'
-											}
-											mainContainer.innerHTML = content1
-										}
-									</script>
-							</ul>
-						
-							<h6 style="margin-left:20px"><b>ACHIEVEMENTS AND PARTICIPATION</b></h6>
-							<hr>
-							<ul id="myDataForAchievements"> 
-								
-									<script>
-										fetch('../datas/achievements.json')
-											.then(function (response) {
-												return response.json();
-											})
-											.then(function (data) {
-												appendData(data);
-											})
-											.catch(function (err) {
-												console.log('error: ' + err);
-											});
-										function appendData(data) {
-											content = ''
-											var mainContainer = document.getElementById("myDataForAchievements");
-											for (var i = 0; i < data.length; i++) {
-												content += '<li class="achievement-list">'+data[i].title+' '+data[i].date+'</li>'
+												content += '<li class="achievement-list">'+data1[i].title+' '+data1[i].date+'</li>'
 											}
 											mainContainer.innerHTML = content
 										}
 									</script>
-							</ul>
+							</ul> -->
+						
+						<script>
+							fetch('../datas/achievements.json')
+                                .then(function (response) {
+                                    return response.json();
+                                })
+                                .then(function (data) {
+                                    appendData(data);
+                                })
+                                .catch(function (err) {
+                                    console.log('error: ' + err);
+                                });
+							function appendData(data) {
+                                content = ''
+                                var mainContainer = document.getElementById("myData");
+                                for (var i = 0; i < data.length; i++) {
+									if (i==0) {
+										content += '<h6 style="margin-left:20px"><b>ACADEMIC AWARDS, FELLOWSHIPS & SCHOLARSHIPS</b></h6>'
+									} else{
+										content += '<h6 style="margin-left:20px"><b>ACHIEVEMENTS AND PARTICIPATION</b></h6>'
+									}
+                                   
+									content += '<ul>'
+										papers = data[i].datas
+										for(var j = 0; j < datas.length; j++) {
+											content += '<li class="achievement-list">'+papers[i].title+' '+papers[i].date+'</li>'
+										}
+									content += '</ul>'
+                                }
+                                mainContainer.innerHTML = content
+                            }
+						</script>
 					</div>
 				</div>
 				

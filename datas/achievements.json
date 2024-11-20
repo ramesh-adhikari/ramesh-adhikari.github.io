@@ -1,30 +1,83 @@
 [
     {
-        "id": "5",
-        "title": "Participated in International Conference on Cryptology and Network Security (CANS)",
-        "date": "(Nov 2023)"
-    },
-    {
-        "id": "4",
-        "title": "Participated in The Southeast Regional Programming Languages Seminar",
-        "date": "(Oct 2023)"
-    },
-    
-    
-    {
-        "id": "3",
-        "title": "Participated in International Symposium on Distributed Computing (DISC) conference",
-        "date": "(Oct 2022)"
-    },
-    
-    {
         "id": "2",
-        "title": "Served as a member of the Kathford FOSS Community at <a href ='https://kathford.edu.np/' target='_blank '>Kathford International College</a>, guiding participants in the EVOLVE 2.0 software competition",
-        "date": "(2017)"
+        "datas": [
+            {
+                "id": "8",
+                "title": "$1000 NSF travel award from SPAA 2024 conference",
+                "date": "(June 2024)"
+            },
+            {
+                "id": "7",
+                "title": "$1,000 travel award from the Graduate School, Augusta University",
+                "date": "(April 2024)"
+            },
+            {
+                "id": "6",
+                "title": "$650 NSF Student Travel Awards for CANS conference",
+                "date": "(Nov 2023)"
+            },
+            {
+                "id": "5",
+                "title": "$1,000 travel award from the Graduate School, Augusta University ",
+                "date": "(Mar 2023)"
+            },
+           
+            {
+                "id": "4",
+                "title": "$100 NSF travel award to attend the 3rd Data Science Workshop at Augusta Universit",
+                "date": "(Feb 2023)"
+            },
+            {
+                "id": "3",
+                "title": "$340 NSF travel award to attend the (DISC) conference",
+                "date": "(Oct 2022)"
+            },
+            
+            {
+                "id": "2",
+                "title": "Star Performance Excellence Award at <a href='https://www.sanimabank.com/' target='_blank'> Sanima Bank Ltd</a>",
+                "date": "(2021)"
+            },
+            {
+                "id": "1",
+                "title": "Granted a full scholarship for a Master of Science in Computer Engineering from <a href='https://pu.edu.np/' target='_blank'> Pokhara University</a>",
+                "date": "(2018)"
+            }
+        ]
     },
     {
         "id": "1",
-        "title": "Achieved First Runner-Up in a software competition at <a href='https://kec.edu.np/'  target='_blank'>Kantipur engineering</a>",
-        "date": "(2015)"
+        "datas": [
+            {
+                "id": "5",
+                "title": "Participated in International Conference on Cryptology and Network Security (CANS)",
+                "date": "(Nov 2023)"
+            },
+            {
+                "id": "4",
+                "title": "Participated in The Southeast Regional Programming Languages Seminar",
+                "date": "(Oct 2023)"
+            },
+            
+            
+            {
+                "id": "3",
+                "title": "Participated in International Symposium on Distributed Computing (DISC) conference",
+                "date": "(Oct 2022)"
+            },
+            
+            {
+                "id": "2",
+                "title": "Served as a member of the Kathford FOSS Community at <a href ='https://kathford.edu.np/' target='_blank '>Kathford International College</a>, guiding participants in the EVOLVE 2.0 software competition",
+                "date": "(2017)"
+            },
+            {
+                "id": "1",
+                "title": "Achieved First Runner-Up in a software competition at <a href='https://kec.edu.np/'  target='_blank'>Kantipur engineering</a>",
+                "date": "(2015)"
+            }
+        ]
     }
+
 ]
