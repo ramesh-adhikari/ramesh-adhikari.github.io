@@ -192,19 +192,19 @@
 											.then(function (response) {
 												return response.json();
 											})
-											.then(function (data) {
-												appendData(data);
+											.then(function (data1) {
+												appendData(data1);
 											})
 											.catch(function (err) {
 												console.log('error: ' + err);
 											});
-										function appendData(data) {
-											content = ''
+										function appendData(data1) {
+											content1 = ''
 											var mainContainer = document.getElementById("myData");
-											for (var i = 0; i < data.length; i++) {
-												content += '<li class="achievement-list">'+data[i].title+' '+data[i].date+'</li>'
+											for (var i = 0; i < data1.length; i++) {
+												content1 += '<li class="achievement-list">'+data1[i].title+' '+data1[i].date+'</li>'
 											}
-											mainContainer.innerHTML = content
+											mainContainer.innerHTML = content1
 										}
 									</script>
 							</ul>
