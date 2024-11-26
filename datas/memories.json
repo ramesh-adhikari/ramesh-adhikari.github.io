@@ -1,6 +1,15 @@
 [
     {
         "id": "26",
+        "title": "A memorable moment captured with my PhD advisory committee after successfully completing my comprehensive exam.",
+        "description": "A memorable moment captured with my PhD advisory committee after successfully completing my comprehensive exam.",
+        "image_url": "../assets/memories/ramesh-adhikari-with-his-advisory-committee-in-comprehensive-exam.jpg",
+        "location": "Augusta University, USA",
+        "date": "16 Sept 2024",
+        "detail_page": "memories_details.html?sramesh-adhikari-with-his-advisory-committee-in-comprehensive-exam"
+    },
+    {
+        "id": "26",
         "title": "Presented our research paper at SPAA-2024",
         "description": "Presented our research paper entitled 'Stable Blockchain Sharding under Adversarial Transaction Generation' at The 36th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA ’24).",
         "image_url": "../assets/memories/spaa2024-presentation.jpg",
