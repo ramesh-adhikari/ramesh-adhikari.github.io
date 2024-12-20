@@ -20,14 +20,14 @@
                 "presentation_slides_link": "NONE",
                 "github_code_link":"NONE"
             },
-            {
-                "title": "Transaction Scheduling in Fog-Cloud and Beyond",
-                "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Pavan Poudel",
-                "journal_name": "<b>Under Review (IPDPS 2025)</b>",
-                "paper_link": "",
-                "presentation_slides_link": "NONE",
-                "github_code_link":"NONE"
-            },
+            // {
+            //     "title": "Transaction Scheduling in Fog-Cloud and Beyond",
+            //     "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Pavan Poudel",
+            //     "journal_name": "<b>Under Review </b>",
+            //     "paper_link": "",
+            //     "presentation_slides_link": "NONE",
+            //     "github_code_link":"NONE"
+            // },
             {
                 "title": "Stable Blockchain Sharding under Adversarial Transaction Generation",
                 "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Dariusz Kowalski",
