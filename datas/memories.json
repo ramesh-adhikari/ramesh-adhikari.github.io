@@ -1,6 +1,15 @@
 [
     {
-        "id": "26",
+        "id": "28",
+        "title": "Presented our research at the 40th Annual Graduate Research Day at Augusta University.",
+        "description": "Presented our research at the 40th Annual Graduate Research Day at Augusta University.",
+        "image_url": "../assets/memories/poster-presentation-40th-graduate-research-day.jpg",
+        "location": "Augusta University, USA",
+        "date": "14 Mar 2025",
+        "detail_page": "memories_details.html?poster-presentation-40th-graduate-research-day"
+    },
+    {
+        "id": "27",
         "title": "A memorable moment captured with my PhD advisory committee after successfully completing my comprehensive exam.",
         "description": "A memorable moment captured with my PhD advisory committee after successfully completing my comprehensive exam.",
         "image_url": "../assets/memories/ramesh-adhikari-with-his-advisory-committee-in-comprehensive-exam.jpg",
