@@ -50,6 +50,11 @@
         "id": "1",
         "datas": [
             {
+                "id": "6",
+                "title": "Participated in Young Researchers Forum 2025",
+                "date": "(June 13th, 2025)"
+            },
+            {
                 "id": "5",
                 "title": "Participated in International Conference on Cryptology and Network Security (CANS)",
                 "date": "(Nov 2023)"
