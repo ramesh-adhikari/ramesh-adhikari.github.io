@@ -1,12 +1,12 @@
 [
     {
         "id": "3",
-        "year": "2025 [In submission]",
+        "year": "2025",
         "papers": [
             {
                 "title": "On the Efficiency of Dynamic Transaction Scheduling in Blockchain Sharding",
                 "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Miroslav Popovic",
-                "journal_name": "39th International Symposium on Distributed Computing (DISC 2025)",
+                "journal_name": "Proceedings of the 39th International Symposium on Distributed Computing (DISC 2025)",
                 "paper_link": "",
                 "presentation_slides_link": "NONE",
                 "github_code_link":"NONE"
