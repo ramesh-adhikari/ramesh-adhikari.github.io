@@ -29,8 +29,16 @@
                 "github_code_link":"NONE"
             },
             {
-                "title": "Transaction Scheduling in Fog-Cloud and Beyond",
+                "title": "A Poly-Log Approximation for Transaction Scheduling in Fog-Cloud Computing and Beyond",
                 "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Pavan Poudel",
+                "journal_name": "[In submission]",
+                "paper_link": "",
+                "presentation_slides_link": "NONE",
+                "github_code_link":"NONE"
+            },
+            {
+                "title": "Near-Optimal Stability for Distributed Transaction Processing in Blockchain Sharding",
+                "authors": "<b>Ramesh Adhikari</b>, Costas Busch, Costas Busch and Dariusz R. Kowalski",
                 "journal_name": "[In submission]",
                 "paper_link": "",
                 "presentation_slides_link": "NONE",
