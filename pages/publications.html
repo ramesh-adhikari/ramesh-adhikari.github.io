@@ -204,7 +204,7 @@
 									content += '<ul>'
 										papers = data[i].papers
 										for(var j = 0; j < papers.length; j++) {
-											content += '<li class="project-list"><em>'+papers[j].authors+'</em>. <a href="'+papers[j].paper_link+'" target="_blank">'+papers[j].title+'</a>. '+papers[j].journal_name+''
+											content += '<li class="project-list">'+papers[j].authors+'. <em><a href="'+papers[j].paper_link+'" target="_blank">'+papers[j].title+'</a></em>. '+papers[j].journal_name+''
 												if(!(papers[j].presentation_slides_link =='NONE'))
 													content += ' | <a href="'+papers[j].presentation_slides_link+'" target="_blank">Slides</a>'
 												if(!(papers[j].github_code_link =='NONE'))
