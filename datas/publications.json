@@ -6,15 +6,33 @@
             {
                 "title": "On the Efficiency of Dynamic Transaction Scheduling in Blockchain Sharding",
                 "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Miroslav Popovic",
-                "journal_name": "Proceedings of the 39th International Symposium on Distributed Computing (DISC 2025)",
+                "journal_name": "Proceedings of the 39th International Symposium on Distributed Computing <b>(DISC 2025)</b>",
                 "paper_link": "",
                 "presentation_slides_link": "NONE",
                 "github_code_link":"NONE"
             },
             {
+                "title": "Near-Optimal Stability for Distributed Transaction Processing in Blockchain Sharding",
+                "authors": "<b>Ramesh Adhikari</b>, Costas Busch, Costas Busch and Dariusz R. Kowalski",
+                "journal_name": "Proceedings of the 27th International Symposium on Stabilization, Safety, and Security of Distributed Systems <b>(SSS 2025)</b>",
+                "paper_link": "",
+                "presentation_slides_link": "NONE",
+                "github_code_link":"NONE"
+            },
+            
+            {
+                "title": "A Poly-Log Approximation for Transaction Scheduling in Fog-Cloud Computing and Beyond",
+                "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Pavan Poudel",
+                "journal_name": "Proceedings of the 27th International Symposium on Stabilization, Safety, and Security of Distributed Systems <b>(SSS 2025)</b>",
+                "paper_link": "",
+                "presentation_slides_link": "NONE",
+                "github_code_link":"NONE"
+            },
+            
+            {
                 "title": "Stable Blockchain Sharding under Adversarial Transaction Generation",
                 "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Dariusz Kowalski",
-                "journal_name": "[In submission]",
+                "journal_name": "Distributed Computing Journal (Under Review).",
                 "paper_link": "",
                 "presentation_slides_link": "NONE",
                 "github_code_link":"NONE"
@@ -23,23 +41,7 @@
             {
                 "title": "Transaction Processing in Blockchain Sharding: Current Trends and Future Research Directions",
                 "authors": "<b>Ramesh Adhikari</b>, Costas Busch, Dariusz Kowalski, and Abdullah Al-Mamun",
-                "journal_name": "[In submission]",
-                "paper_link": "",
-                "presentation_slides_link": "NONE",
-                "github_code_link":"NONE"
-            },
-            {
-                "title": "A Poly-Log Approximation for Transaction Scheduling in Fog-Cloud Computing and Beyond",
-                "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Pavan Poudel",
-                "journal_name": "[In submission]",
-                "paper_link": "",
-                "presentation_slides_link": "NONE",
-                "github_code_link":"NONE"
-            },
-            {
-                "title": "Near-Optimal Stability for Distributed Transaction Processing in Blockchain Sharding",
-                "authors": "<b>Ramesh Adhikari</b>, Costas Busch, Costas Busch and Dariusz R. Kowalski",
-                "journal_name": "[In submission]",
+                "journal_name": "ACM Journals: Distributed Ledger Technologies: Research and Practice (Under Review).",
                 "paper_link": "",
                 "presentation_slides_link": "NONE",
                 "github_code_link":"NONE"
@@ -54,7 +56,7 @@
             {
                 "title": "<a href='https://dl.acm.org/doi/abs/10.1145/3626183.3659970' target='_blank'> Stable Blockchain Sharding under Adversarial Transaction Generation</a>",
                 "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Dariusz Kowalski",
-                "journal_name": "Proceedings of the 36th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA 2024)",
+                "journal_name": "Proceedings of the 36th ACM Symposium on Parallelism in Algorithms and Architectures <b>(SPAA 2024)</b>",
                 "paper_link": "https://dl.acm.org/doi/abs/10.1145/3626183.3659970",
                 "presentation_slides_link": "../assets/documents/presentation/SPAA2024-Stable-Blockchain.pdf",
                 "github_code_link":"NONE"
@@ -63,7 +65,7 @@
             {
                 "title": "<a href='https://arxiv.org/abs/2405.15015' target='_blank'>Fast Transaction Scheduling in Blockchain Sharding</a>",
                 "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Miroslav Popovic",
-                "journal_name": "preprint arxiv [In submission]",
+                "journal_name": "preprint on Arxiv",
                 "paper_link": "https://arxiv.org/abs/2405.15015",
                 "presentation_slides_link": "NONE",
                 "github_code_link":"NONE"
@@ -79,7 +81,7 @@
             {
                 "title": "<a href='https://link.springer.com/chapter/10.1007/978-3-031-32733-9_6' target='_blank'> Lockless Blockchain Sharding with Multiversion Control</a>",
                 "authors": "<b> Ramesh Adhikari</b>, and Costas Busch",
-                "journal_name": "International Colloquium on Structural Information and Communication Complexity (SIROCCO 2023)",
+                "journal_name": "International Colloquium on Structural Information and Communication Complexity <b>(SIROCCO 2023)</b>",
                 "paper_link": "https://link.springer.com/chapter/10.1007/978-3-031-32733-9_6",
                 "presentation_slides_link": "../assets/documents/presentation/Presentation_slide_on_sharding_paper__SIROCCO.pdf",
                 "github_code_link":"NONE"
