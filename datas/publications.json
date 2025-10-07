@@ -22,8 +22,8 @@
             
             {
                 "title": "A Poly-Log Approximation for Transaction Scheduling in Fog-Cloud Computing and Beyond",
-                "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Pavan Poudel",
-                "journal_name": "Proceedings of the 27th International Symposium on Stabilization, Safety, and Security of Distributed Systems <b>(SSS 2025)</b>.",
+                "authors": "<i class='fa-solid fa-award' style='font-size:48px;color:red'></i> <b>Ramesh Adhikari</b>, Costas Busch, and Pavan Poudel",
+                "journal_name": "Proceedings of the 27th International Symposium on Stabilization, Safety, and Security of Distributed Systems <b>(SSS 2025)</b>. [<a href='https://sss2025.conf.lip6.fr/#award'   target='_blank'>Best Student Paper Award</a>]",
                 "paper_link": "",
                 "presentation_slides_link": "NONE",
                 "github_code_link":"NONE"
