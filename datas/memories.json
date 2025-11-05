@@ -5,7 +5,7 @@
         "description": "Our research paper '𝘈 𝘗𝘰𝘭𝘺-𝘓𝘰𝘨 𝘈𝘱𝘱𝘳𝘰𝘹𝘪𝘮𝘢𝘵𝘪𝘰𝘯 𝘧𝘰𝘳 𝘛𝘳𝘢𝘯𝘴𝘢𝘤𝘵𝘪𝘰𝘯 𝘚𝘤𝘩𝘦𝘥𝘶𝘭𝘪𝘯𝘨 𝘪𝘯 𝘍𝘰𝘨–𝘊𝘭𝘰𝘶𝘥 𝘊𝘰𝘮𝘱𝘶𝘵𝘪𝘯𝘨 𝘢𝘯𝘥 𝘉𝘦𝘺𝘰𝘯𝘥' received the 𝐁𝐞𝐬𝐭 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐏𝐚𝐩𝐞𝐫 𝐀𝐰𝐚𝐫𝐝 at the 27𝐭𝐡 𝐈𝐧𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐒𝐲𝐦𝐩𝐨𝐬𝐢𝐮𝐦 𝐨𝐧 𝐒𝐭𝐚𝐛𝐢𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧, 𝐒𝐚𝐟𝐞𝐭𝐲, 𝐚𝐧𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐨𝐟 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐝 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 (𝐒𝐒𝐒 2025).",
         "image_url": "../assets/memories/best-paper-award.jpg",
         "location": "Kathmandu, Nepal",
-        "date": "10 Oct 2025",
+        "date": "Oct 10, 2025",
         "detail_page": "memories_details.html?best-paper-award.jpg"
     },
         {
@@ -23,7 +23,7 @@
         "description": "Presented our research at the 40th Annual Graduate Research Day at Augusta University.",
         "image_url": "../assets/memories/poster-presentation-40th-graduate-research-day.jpg",
         "location": "Augusta University, USA",
-        "date": "14 Mar 2025",
+        "date": "Mar 14, 2025",
         "detail_page": "memories_details.html?poster-presentation-40th-graduate-research-day"
     },
     {
@@ -32,7 +32,7 @@
         "description": "A memorable moment captured with my PhD advisory committee after successfully completing my comprehensive exam.",
         "image_url": "../assets/memories/ramesh-adhikari-with-his-advisory-committee-in-comprehensive-exam.jpg",
         "location": "Augusta University, USA",
-        "date": "16 Sept 2024",
+        "date": "Sept 16, 2024",
         "detail_page": "memories_details.html?sramesh-adhikari-with-his-advisory-committee-in-comprehensive-exam"
     },
     {
@@ -41,7 +41,7 @@
         "description": "Presented our research paper entitled 'Stable Blockchain Sharding under Adversarial Transaction Generation' at The 36th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA ’24).",
         "image_url": "../assets/memories/spaa2024-presentation.jpg",
         "location": "Nantes, France",
-        "date": "20 June 2024",
+        "date": "June 20, 2024",
         "detail_page": "memories_details.html?spaa2024-presnetation"
     },
     {
@@ -50,7 +50,7 @@
         "description": "Participated in the International Conference on Cryptology and Network Security (CANS 2023).",
         "image_url": "../assets/memories/ramesh-adhikari-in-cans-2023.jpeg",
         "location": "Augusta, Georgia, USA",
-        "date": "02 Nov 2023",
+        "date": "Nov 02, 2023",
         "detail_page": "memories_details.html?ramesh-adhikari-in-cans-2023"
     },
     {
@@ -59,7 +59,7 @@
         "description": "Group photo in The Southeast Regional Programming Languages Seminar (SERPL).",
         "image_url": "../assets/memories/group-photo-in-serpl-2023.jpeg",
         "location": "Augusta, Georgia, USA",
-        "date": "14 Oct 2023",
+        "date": "Oct 14, 2023",
         "detail_page": "memories_details.html?group-photo-in-serpl-2023"
     },
     {
@@ -68,7 +68,7 @@
         "description": "Visited Johns Hopkins University.",
         "image_url": "../assets/memories/visited-johns-hopkins-university.jpg",
         "location": "Baltimore, USA",
-        "date": "24 July 2023",
+        "date": "July 24, 2023",
         "detail_page": "memories_details.html?visited-johns-hopkins-university"
     },
     {
@@ -77,7 +77,7 @@
         "description": "Presented our research paper entitled 'Lockless Blockchain Sharding with Multiversion Control' at SIROCCO-2023.",
         "image_url": "../assets/memories/ramesh-adhikari-paper-presentation-in-sirocco-2023.JPG",
         "location": "Alcala, Madrid, Spain",
-        "date": "8 June 2023",
+        "date": "June 8, 2023",
         "detail_page": "memories_details.html?ramesh-adhikari-paper-presentation-in-sirocco-2023"
     },
     {
@@ -86,7 +86,7 @@
         "description": "With Dr. Gagan Agrawal and colleague at data science workshop",
         "image_url": "../assets/memories/ramesh-adhikari-with-dr-agrawal.JPG",
         "location": "Augusta University, USA",
-        "date": "17 March. 2023",
+        "date": "Mar 17, 2023",
         "detail_page": "memories_details.html?ramesh-adhikari-with-dr-agrawal"
     },
     {
@@ -95,7 +95,7 @@
         "description": "Presented a poster at 3rd annual workshop on Emerging Data Science Methods for Complex Biomedical and Cyber Data",
         "image_url": "../assets/memories/ramesh-adhikari-poster-presentaiton-on-third-datascience-workshop.jpg",
         "location": "Augusta University, USA",
-        "date": "16 March. 2023",
+        "date": "Mar 16, 2023",
         "detail_page": "memories_details.html?ramesh-adhikari-poster-presentaiton-on-third-datascience-workshop"
     },
     
@@ -105,7 +105,7 @@
         "description": "With Professor Bogdan Chlebus, Legend of Algorithm Analysis",
         "image_url": "../assets/memories/ramesh-adhikari-with-chlebus-bogdan.jpeg",
         "location": "Augusta University, USA",
-        "date": "7 Dec. 2022",
+        "date": "Dec 7, 2022",
         "detail_page": "memories_details.html?ramesh-adhikari-with-chlebus-bogdan"
     },
     {
@@ -114,7 +114,7 @@
         "description": "With Professor Hoda Maleki and classmate in last day of the Adv. topic in computer & cyber science class.",
         "image_url": "../assets/memories/group-photo-with-dr-hoda.jpg",
         "location": "Augusta University, USA",
-        "date": "6 Dec. 2022",
+        "date": "Dec 6, 2022",
         "detail_page": "memories_details.html?group-photo-with-dr-hoda"
     },
     {
@@ -123,7 +123,7 @@
         "description": "In 2022 International Symposium on Distributed Computing (DISC) conference",
         "image_url": "../assets/memories/ramesh-adhikari-disc-conference.jpeg",
         "location": "Augusta University, USA",
-        "date": "18 Oct. 2022",
+        "date": "Oct 18, 2022",
         "detail_page": "memories_details.html?ramesh-adhikari-disc-conference"
 
     },
@@ -133,7 +133,7 @@
         "description": "Met my PhD advisor Dr. Costas Busch, for the first time.",
         "image_url": "../assets/memories/ramesh-adhikari-first-meet-with-dr-costas-busch.jpeg",
         "location": "Georgia Cyber Center, USA",
-        "date": "5 Aug. 2022",
+        "date": "Aug 5, 2022",
         "detail_page": "memories_details.html?ramesh-adhikari-first-meet-with-dr-costas-busch"
     },
     {
@@ -142,7 +142,7 @@
         "description": "First day at Georgia Cyber Center, <a href='https://www.augusta.edu/ccs' target='_blank'>School of Computer and Cyber Sciences</a>, <a href='https://www.augusta.edu' target='_blank'>Augusta University</a>.",
         "image_url": "../assets/memories/ramesh-adhikari-first-time-at-gcc-building.jpeg",
         "location": "Georgia Cyber Center, USA",
-        "date": "5 Aug. 2022",
+        "date": "Aug 5, 2022",
         "detail_page": "memories_details.html?ramesh-adhikari-first-time-at-gcc-building"
     },
     {
@@ -151,7 +151,7 @@
         "description": "Infront of the <a href='https://www.augusta.edu/' target='_blank'>Augusta University</a>, for the first time.",
         "image_url": "../assets/memories/ramesh-adhikari-infront-of-augusta-university.jpeg",
         "location": "Augusta University, USA",
-        "date": "9 Aug. 2022",
+        "date": "Aug 9, 2022",
         "detail_page": "memories_details.html?ramesh-adhikari-infront-of-augusta-university"
     },
     {
@@ -160,7 +160,7 @@
         "description": "Leaving home country, Nepal, for the first time.",
         "image_url": "../assets/memories/ramesh-adhikari-leaving-country-for-the-first-time-to-pursue--phd.jpeg",
         "location": "KTM Airport, Nepal",
-        "date": "3 Aug. 2022",
+        "date": "Aug 3, 2022",
         "detail_page": "memories_details.html?ramesh-adhikari-leaving-country-for-the-first-time-to-pursue-phd"
     },
     {
@@ -169,7 +169,7 @@
         "description": "Delivered the speech at <a href='https://ncit.edu.np/' target='_blank'> NCIT </a>masters farewell program, on behalf of Master's students (Batch 2018-2019).",
         "image_url": "../assets/memories/ramesh-adhikari-speech-masters-farewell-ncit.jpeg",
         "location": "Kathmandu, Nepal",
-        "date": "8 Jul. 2022",
+        "date": "Jul 8, 2022",
         "detail_page": "memories_details.html?ramesh-adhikari-speech-masters-farewell-ncit"
     },
     {
@@ -178,7 +178,7 @@
         "description": "Receiving the Token of love from <a href='https://ncit.edu.np/' target='_blank'>Nepal College of Information Technology</a> at farewell program.",
         "image_url": "../assets/memories/ramesh-adhikari-receiving-token-of-love-from-ncit.jpeg",
         "location": "Kathmandu, Nepal",
-        "date": "8 Jul. 2022",
+        "date": "Jul 8, 2022",
         "detail_page": "memories_details.html?ramesh-adhikari-receiving-token-of-love-from-ncit"
     },
     {
@@ -187,7 +187,7 @@
         "description": "Farewell program from <a href='https://sanimabank.com/' target='_blank'>Sanima Bank</a>, IT department team.",
         "image_url": "../assets/memories/ramesh-adhikari-farewell-from-sanima-bank.jpeg",
         "location": "Kathmandu, Nepal",
-        "date": "15 Jul. 2022",
+        "date": "Jul 15, 2022",
         "detail_page": "memories_details.html?ramesh-adhikari-farewell-from-sanima-bank"
     },
     {
@@ -196,7 +196,7 @@
         "description": "While working as a software Engineer at Sanima Bank.",
         "image_url": "../assets/memories/ramesh-adhikari-working-at-sanima-bank.jpeg",
         "location": "Kathmandu, Nepal",
-        "date": "29 Mar. 2021",
+        "date": "Mar 29, 2021",
         "detail_page": "memories_details.html?ramesh-adhikari-working-at-sanima-bank"
     },
     {
@@ -205,7 +205,7 @@
         "description": " Photo taken after final defense of master’s thesis at <a href='https://ncit.edu.np/' target='_blank'>NCIT</a>",
         "image_url": "../assets/memories/ramesh-adhikari-masters-thesis-final-defense-day.jpeg",
         "location": "Kathmandu, Nepal",
-        "date": "29 Jan. 2021",
+        "date": "Jan 29, 2021",
         "detail_page": "memories_details.html?ramesh-adhikari-masters-thesis-final-defense-day"
     },
     {
@@ -214,7 +214,7 @@
         "description": "While Working at Smartmobe Solution as a software Engineer.",
         "image_url": "../assets/memories/ramesh-adhikari-in-smartmobe-solution.jpeg",
         "location": "Kathmandu, Nepal",
-        "date": "11 May 2019",
+        "date": "May 11, 2019",
         "detail_page": "memories_details.html?ramesh-adhikari-in-smartmobe-solution"
     },
     {
@@ -223,7 +223,7 @@
         "description": "With Smartmobe Solution team.",
         "image_url": "../assets/memories/ramesh-adhikari-with-smartmobe-team.jpeg",
         "location": "Bandipur, Nepal",
-        "date": "10 Feb. 2018",
+        "date": "Feb 10, 2018",
         "detail_page": "memories_details.html?ramesh-adhikari-with-smartmobe-team"
     },
     {
@@ -232,7 +232,7 @@
         "description": "At <a href='https://kathford.edu.np/' target='_blank'>Kathford</a> farewell program.",
         "image_url": "../assets/memories/ramesh-adhikari-kathford-farewell.jpeg",
         "location": "Lalitpur, Nepal",
-        "date": "25 Dec. 2017",
+        "date": "Dec 25, 2017",
         "detail_page": "memories_details.html?ramesh-adhikari-kathford-farewell"
     },
     {
@@ -241,7 +241,7 @@
         "description": "With <a href='https://www.mantraideas.com/' target='_blank'>Mantra Ideas</a> team.",
         "image_url": "../assets/memories/ramesh-adhikari-with-mantra-ideas-team.jpeg",
         "location": "Chitlang, Nepal",
-        "date": "31 July. 2017",
+        "date": "July 31, 2017",
         "detail_page": "memories_details.html?ramesh-adhikari-with-mantra-ideas-team"
     },
     {
@@ -250,7 +250,7 @@
         "description": " Received an certificate for monitoring and guiding the participants in EVOLVE-2 software competition.",
         "image_url": "../assets/memories/ramesh-adhikari-receiving-certificate-for-mentoring-kath-foss-software-competation-participants.jpeg",
         "location": "Lalitpur, Nepal",
-        "date": "22 Jul. 2017",
+        "date": "Jul 22, 2017",
         "detail_page": "memories_details.html?ramesh-adhikari-receiving-certificate-for-mentoring-kath-foss-software-competation-participants"
     },
     {
@@ -259,7 +259,7 @@
         "description": "Received first runner up award, software competition at <a href='https://kec.edu.np/' target='_blank'>Kantipur engineering</a> college",
         "image_url": "../assets/memories/ramesh-adhikari-kec-lite-software-competation.jpeg",
         "location": "Lalitpur, Nepal",
-        "date": "27 Feb. 2015",
+        "date": "Feb 27, 2015",
         "detail_page": "memories_details.html?ramesh-adhikari-kec-lite-software-competation"
     }
 
