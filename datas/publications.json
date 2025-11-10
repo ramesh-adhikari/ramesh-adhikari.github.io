@@ -49,6 +49,30 @@
         ]
        
     },
+        {
+        "id": "3",
+        "year": "2025 (Under Review)",
+        "papers": [
+          
+            {
+                "title": "Stable Blockchain Sharding under Adversarial Transaction Generation",
+                "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Dariusz Kowalski",
+                "journal_name": "Distributed Computing Journal",
+                "paper_link": "",
+                "presentation_slides_link": "NONE",
+                "github_code_link":"NONE"
+            },
+            {
+                "title": "On the Efficiency of Dynamic Transaction Scheduling in Blockchain Sharding",
+                "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Miroslav Popovic",
+                "journal_name": "ACM Journal: ACM Transactions on Parallel Computing (TOPC)",
+                "paper_link": "",
+                "presentation_slides_link": "NONE",
+                "github_code_link":"NONE"
+            }
+        ]
+       
+    },
     {
         "id": "2",
         "year": "2024",
