@@ -30,15 +30,6 @@
             },
             
             {
-                "title": "Stable Blockchain Sharding under Adversarial Transaction Generation",
-                "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Dariusz Kowalski",
-                "journal_name": "Distributed Computing Journal (Under Review).",
-                "paper_link": "",
-                "presentation_slides_link": "NONE",
-                "github_code_link":"NONE"
-            },
-            
-            {
                 "title": "Transaction Processing in Blockchain Sharding: Current Trends and Future Research Directions",
                 "authors": "<b>Ramesh Adhikari</b>, Costas Busch, Dariusz Kowalski, and Abdullah Al-Mamun",
                 "journal_name": "ACM Journals: Distributed Ledger Technologies: Research and Practice <b>(DLT 2025)</b>.",
