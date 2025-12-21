@@ -60,6 +60,23 @@
                 "paper_link": "",
                 "presentation_slides_link": "NONE",
                 "github_code_link":"NONE"
+            },
+             {
+                "title": "Near-Optimal Stability for Distributed Transaction Processing in Blockchain Sharding",
+                "authors": "<b>Ramesh Adhikari</b>, Costas Busch, Costas Busch and Dariusz R. Kowalski",
+                "journal_name": "Theoretical Computer Science (TCS), Elsevier",
+                "paper_link": "",
+                "presentation_slides_link": "NONE",
+                "github_code_link":"NONE"
+            },
+            
+            {
+                "title": "A Poly-Log Approximation for Transaction Scheduling in Fog-Cloud Computing and Beyond",
+                "authors": "<i class='fa-solid fa-award' style='color:red'></i> <b>Ramesh Adhikari</b>, Costas Busch, and Pavan Poudel",
+                "journal_name": "Theoretical Computer Science (TCS), Elsevier",
+                "paper_link": "",
+                "presentation_slides_link": "NONE",
+                "github_code_link":"NONE"
             }
         ]
        
