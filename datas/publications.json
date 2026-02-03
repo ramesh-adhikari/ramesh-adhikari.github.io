@@ -48,7 +48,7 @@
                 "title": "On the Efficiency of Dynamic Transaction Scheduling in Blockchain Sharding",
                 "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Miroslav Popovic",
                 "journal_name": "Proceedings of the 39th International Symposium on Distributed Computing <b>(DISC 2025)</b>.",
-                "paper_link": "",
+                "paper_link": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2025.2",
                 "presentation_slides_link": "NONE",
                 "github_code_link":"NONE"
             },
@@ -56,7 +56,7 @@
                 "title": "Near-Optimal Stability for Distributed Transaction Processing in Blockchain Sharding",
                 "authors": "<b>Ramesh Adhikari</b>, Costas Busch, Costas Busch and Dariusz R. Kowalski",
                 "journal_name": "Proceedings of the 27th International Symposium on Stabilization, Safety, and Security of Distributed Systems <b>(SSS 2025)</b>.",
-                "paper_link": "",
+                "paper_link": "https://link.springer.com/chapter/10.1007/978-3-032-11127-2_3",
                 "presentation_slides_link": "NONE",
                 "github_code_link":"NONE"
             },
@@ -65,7 +65,7 @@
                 "title": "A Poly-Log Approximation for Transaction Scheduling in Fog-Cloud Computing and Beyond",
                 "authors": "<i class='fa-solid fa-award' style='color:red'></i> <b>Ramesh Adhikari</b>, Costas Busch, and Pavan Poudel",
                 "journal_name": "Proceedings of the 27th International Symposium on Stabilization, Safety, and Security of Distributed Systems <b>(SSS 2025)</b>. [<a href='https://sss2025.conf.lip6.fr/#award'   target='_blank' style='color:red'>Best Student Paper Award</a>]",
-                "paper_link": "",
+                "paper_link": "https://link.springer.com/chapter/10.1007/978-3-032-11127-2_4",
                 "presentation_slides_link": "NONE",
                 "github_code_link":"NONE"
             },
@@ -74,7 +74,7 @@
                 "title": "Transaction Processing in Blockchain Sharding: Current Trends and Future Research Directions",
                 "authors": "<b>Ramesh Adhikari</b>, Costas Busch, Dariusz Kowalski, and Abdullah Al-Mamun",
                 "journal_name": "ACM Journals: Distributed Ledger Technologies: Research and Practice <b>(DLT 2025)</b>.",
-                "paper_link": "",
+                "paper_link": "https://dl.acm.org/doi/10.1145/3777468",
                 "presentation_slides_link": "NONE",
                 "github_code_link":"NONE"
             }
