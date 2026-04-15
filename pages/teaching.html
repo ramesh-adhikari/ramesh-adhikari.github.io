@@ -62,6 +62,11 @@
 								Publications
 							</a>
 						</li>
+                        <li class="nav-item">
+							<a class="nav-link" id="teaching" href="pages/teaching.html">
+								Teaching
+						</a>
+						</li>
 						<li class="nav-item">
 							<a class="nav-link" id="achievement" href="achievement.html">
 								Achievement and Participation
@@ -200,11 +205,11 @@
                                 content = ''
                                 var mainContainer = document.getElementById("myData");
                                 for (var i = 0; i < data.length; i++) {
-                                    content += '<div>'+data[i].instituation+" [ "+data[i].year+' ]</div>'
+                                    content += '<div> <b>'+data[i].instituation+" </b>  :"+data[i].year+'</div>'
 									content += '<ul>'
 										courses = data[i].courses
 										for(var j = 0; j < courses.length; j++) {
-											content += '<li class="project-list">'+courses[j].authors+'. <a href="'+courses[j].paper_link+'" target="_blank">'+courses[j].title+'</a></em>'
+											content += '<li class="project-list"><a href="'+courses[j].paper_link+'" target="_blank">'+courses[j].title+'</a></em>'
 												if(!(courses[j].slides_link =='NONE'))
 													content += ' | <a href="'+courses[j].slides_link+'" target="_blank">Slides</a>'
 												if(!(courses[j].github_code_link =='NONE'))
