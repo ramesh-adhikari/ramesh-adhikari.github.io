@@ -1,0 +1,37 @@
+[
+        {
+        "id": "2",
+        "year": "2026 (Fall)",
+        "Instituation": "University of Central Arkansas",
+        "course": [
+            {
+                "title": "CSEC 2300: Introduction to Cybersecurity",
+                "slides_link": "NONE",
+                "github_code_link":"NONE"
+            },
+
+            {
+                "title": "CSEC 3320: Computer Forensics",
+                "slides_link": "NONE",
+                "github_code_link":"NONE"
+            }
+        ]
+       
+    },
+
+    {
+        "id": "1",
+        "year": "2026 (Spring)",
+        "Instituation": "Augusta University (Guest Lecturer)",
+        "course": [
+            {
+                "title": "CSCI 8250: Quantum Computing",
+                "slides_link": "NONE",
+                "github_code_link":"NONE"
+            }
+        ]
+       
+    }
+    
+    
+]
