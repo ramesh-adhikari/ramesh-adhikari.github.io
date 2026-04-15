@@ -2,8 +2,8 @@
         {
         "id": "2",
         "year": "2026 (Fall)",
-        "Instituation": "University of Central Arkansas",
-        "course": [
+        "instituation": "University of Central Arkansas",
+        "courses": [
             {
                 "title": "CSEC 2300: Introduction to Cybersecurity",
                 "slides_link": "NONE",
@@ -22,8 +22,8 @@
     {
         "id": "1",
         "year": "2026 (Spring)",
-        "Instituation": "Augusta University (Guest Lecturer)",
-        "course": [
+        "instituation": "Augusta University (Guest Lecturer)",
+        "courses": [
             {
                 "title": "CSCI 8250: Quantum Computing",
                 "slides_link": "NONE",
