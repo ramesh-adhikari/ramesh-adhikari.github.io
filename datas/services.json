@@ -1,0 +1,77 @@
+[
+    {
+        "id": "2",
+        "datas": [
+            {
+                "id": "6",
+                "title": "Invited Reviewer, Theoretical Computer Science.",
+                "date": "2026"
+            },
+            {
+                "id": "5",
+                "title": "Invited Reviewer, IEEE Transactions on Green Communications and Networking",
+                "date": "2024"
+            },
+            {
+                "id": "4",
+                "title": "External Reviewer, Journal of Network and Computer Applications ",
+                "date": "2024"
+            },
+            {
+                "id": "3",
+                "title": "External Reviewer, Blockchain: Research and Applications",
+                "date": "2024"
+            },
+            {
+                "id": "2",
+                "title": "External Reviewer, IEEE Transactions on Mobile Computing",
+                "date": "2024"
+            },
+           
+            {
+                "id": "1",
+                "title": "External Reviewer, IEEE Transactions on Network and Service Management",
+                "date": "2022"
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "datas": [
+            {
+                "id": "6",
+                "title": "Invited Reviewer, 39th International Symposium on Distributed Computing",
+                "date": "(DISC 2025)"
+            },
+            {
+                "id": "5",
+                "title": "Invited Reviewer, 43rd ACM Symposium on Principles of Distributed Computing",
+                "date": "(PODC 2024)"
+            },
+            {
+                "id": "4",
+                "title": "External Reviewer, 7th IEEE International Conference on Blockchain",
+                "date": "(Blockchain 2024)"
+            },
+            
+            
+            {
+                "id": "3",
+                "title": "Invited Reviewer, ACM SIGMIS Computers and People Research 2024",
+                "date": "(SIGMIS CPR 2024)"
+            },
+            
+            {
+                "id": "2",
+                "title": "Invited Reviewer, 31st International Colloquium On Structural Information and Communication Complexity",
+                "date": "(SIROCCO 2024)"
+            },
+            {
+                "id": "1",
+                "title": "External Reviewer, 6th IEEE International Conference on Blockchain",
+                "date": "(Blockchain 2023)"
+            }
+        ]
+    }
+
+]
