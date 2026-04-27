@@ -153,9 +153,6 @@ $(document).ready(function(){
 			// Update navbar
 			clearActiveLinks();
 			activateLink(e);
-
-			// Hide other contents
-			clearActiveDivs();
 		}
 	});
 
