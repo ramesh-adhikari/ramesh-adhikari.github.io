@@ -1,4 +1,22 @@
 [
+       {
+        "id": "32",
+        "title": "A Special Moment with My Advisor Dr. Costas Busch",
+        "description": "Sharing a memorable moment with my Ph.D. advisor, Dr. Costas Busch, after successfully defending my dissertation. I am deeply grateful for his guidance, mentorship, and unwavering support throughout my Ph.D. journey.",
+        "image_url": "../assets/memories/phd_defense_with_advisor.jpeg",
+        "location": "Kathmandu, Nepal",
+        "date": "May 19, 2026",
+        "detail_page": "memories_details.html?phd_defense_with_advisor.jpeg"
+    },
+    {
+        "id": "31",
+        "title": "Ph.D. Dissertation Defense — Augusta University",
+        "description": "Successfully defended my Ph.D. dissertation in Computer and Cyber Sciences at Augusta University on May 19, 2026. Grateful to my advisor, committee members, colleagues, friends, and family for their continuous support throughout this journey.",
+        "image_url": "../assets/memories/phd_defense_with_committee_members.jpeg",
+        "location": "Kathmandu, Nepal",
+        "date": "May 19, 2026",
+        "detail_page": "memories_details.html?phd_defense_with_committee_members.jpeg"
+    },
       {
         "id": "30",
         "title": "🎉 𝐇𝐨𝐧𝐨𝐫𝐞𝐝 𝐭𝐨 𝐑𝐞𝐜𝐞𝐢𝐯𝐞 𝐭𝐡𝐞 𝐁𝐞𝐬𝐭 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐏𝐚𝐩𝐞𝐫 𝐀𝐰𝐚𝐫𝐝 𝐚𝐭 𝐒𝐒𝐒 2025! 🎉",
