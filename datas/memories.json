@@ -1,4 +1,13 @@
 [
+    {
+        "id": "33",
+        "title": "Presented our research paper at APDCM/IPDPS-2026",
+        "description": "Presented our research paper entitled 'FastShard: Fast Transaction Scheduling in Blockchain Sharding' at APDCM/IPDPS-2026.",
+        "image_url": "../assets/memories/ramesh-adhikari-paper-presentation-in-apdcm-2026.jpeg",
+        "location": "New Orleans, USA",
+        "date": "May 25, 2026",
+        "detail_page": "memories_details.html?ramesh-adhikari-paper-presentation-in-apdcm-2026"
+    },
        {
         "id": "32",
         "title": "A Special Moment with My Advisor Dr. Costas Busch",
