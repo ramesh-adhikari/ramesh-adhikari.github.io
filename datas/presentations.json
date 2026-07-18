@@ -1,4 +1,37 @@
 [
+        {
+        "id": "6",
+        "category": "Ph.D. Milestone Presentations",
+        "papers": [
+            {
+                "title": "<b>Ph.D. Dissertation Defense: </b> EFFICIENT AND STABLE TRANSACTION SCHEDULING FOR DISTRIBUTED BLOCKCHAIN SHARDING",
+                "authors": "Ramesh Adhikari",
+                "presented_to": "Augusta University",
+                "date": "May 19, 2026",
+                "paper_link": "NONE",
+                "presentation_slide_link": "../assets/documents/presentation/Ramesh-Adhikari-phd-dissertation-defense.pptx",
+                "video_link": "NONE"
+            },
+            {
+                "title": "<b>Ph.D. Dissertation Proposal: </b> Efficient Transaction Processing Techniques in Distributed Blockchain Sharding",
+                "authors": "Ramesh Adhikari",
+                "presented_to": "Augusta University",
+                "date": "February 25, 2025",
+                "paper_link": "NONE",
+                "presentation_slide_link": "../assets/documents/presentation/Ramesh-Adhikari-phd-proposal.pptx",
+                "video_link": "NONE"
+            },
+            {
+                "title": "<b>Comprehensive Examination: </b> Transaction Processing in Blockchain Sharding",
+                "authors": "Ramesh Adhikari",
+                "presented_to": "Augusta University",
+                "date": "September 16, 2024",
+                "paper_link": "NONE",
+                "presentation_slide_link": "../assets/documents/presentation/Ramesh-Adhikari-Comprehensive-Examination.pptx",
+                "video_link": "NONE"
+            }
+          ]
+    },
     {
         "id": "5",
         "category": "Blockchain Related Papers",
