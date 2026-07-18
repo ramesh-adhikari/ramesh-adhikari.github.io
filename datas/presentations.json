@@ -4,11 +4,11 @@
         "category": "Ph.D. Milestone Presentations",
         "papers": [
             {
-                "title": "<b>Ph.D. Dissertation Defense: </b> EFFICIENT AND STABLE TRANSACTION SCHEDULING FOR DISTRIBUTED BLOCKCHAIN SHARDING",
+                "title": "<b>Ph.D. Dissertation Defense: </b> Efficient and Stable Transaction Scheduling for Distributed Blockchain Sharding",
                 "authors": "Ramesh Adhikari",
                 "presented_to": "Augusta University",
                 "date": "May 19, 2026",
-                "paper_link": "NONE",
+                "paper_link": "",
                 "presentation_slide_link": "../assets/documents/presentation/Ramesh-Adhikari-phd-dissertation-defense.pptx",
                 "video_link": "NONE"
             },
@@ -17,7 +17,7 @@
                 "authors": "Ramesh Adhikari",
                 "presented_to": "Augusta University",
                 "date": "February 25, 2025",
-                "paper_link": "NONE",
+                "paper_link": "",
                 "presentation_slide_link": "../assets/documents/presentation/Ramesh-Adhikari-phd-proposal.pptx",
                 "video_link": "NONE"
             },
@@ -26,7 +26,7 @@
                 "authors": "Ramesh Adhikari",
                 "presented_to": "Augusta University",
                 "date": "September 16, 2024",
-                "paper_link": "NONE",
+                "paper_link": "",
                 "presentation_slide_link": "../assets/documents/presentation/Ramesh-Adhikari-Comprehensive-Examination.pptx",
                 "video_link": "NONE"
             }
