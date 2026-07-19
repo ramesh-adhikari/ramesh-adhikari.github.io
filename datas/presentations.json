@@ -6,7 +6,7 @@
             {
                 "title": "<b>Ph.D. Dissertation Defense: </b> Efficient and Stable Transaction Scheduling for Distributed Blockchain Sharding",
                 "authors": "Ramesh Adhikari",
-                "presented_to": "Augusta University",
+                "presented_to": "at Augusta University",
                 "date": "May 19, 2026",
                 "paper_link": "",
                 "presentation_slide_link": "../assets/documents/presentation/Ramesh-Adhikari-phd-dissertation-defense.pptx",
@@ -15,7 +15,7 @@
             {
                 "title": "<b>Ph.D. Dissertation Proposal: </b> Efficient Transaction Processing Techniques in Distributed Blockchain Sharding",
                 "authors": "Ramesh Adhikari",
-                "presented_to": "Augusta University",
+                "presented_to": "at Augusta University",
                 "date": "February 25, 2025",
                 "paper_link": "",
                 "presentation_slide_link": "../assets/documents/presentation/Ramesh-Adhikari-phd-proposal.pptx",
@@ -24,7 +24,7 @@
             {
                 "title": "<b>Comprehensive Examination: </b> Transaction Processing in Blockchain Sharding",
                 "authors": "Ramesh Adhikari",
-                "presented_to": "Augusta University",
+                "presented_to": "at Augusta University",
                 "date": "September 16, 2024",
                 "paper_link": "",
                 "presentation_slide_link": "../assets/documents/presentation/Ramesh-Adhikari-Comprehensive-Examination.pptx",
@@ -57,7 +57,7 @@
             {
                 "title": "ByShard: sharding in a byzantine environment",
                 "authors": "Jelle Hellings, Mohammad Sadoghi",
-                "presented_to": "Dr. Costas Busch",
+                "presented_to": "to Research Group, Augusta University",
                 "date": "Sept, 2022",
                 "paper_link": "https://dl.acm.org/doi/abs/10.14778/3476249.3476275",
                 "presentation_slide_link": "../assets/documents/presentation/ByShard.pdf",
@@ -72,7 +72,7 @@
             {
                 "title": "A blockchain‑based decentralized efficient investigation framework for IoT digital forensics",
                 "authors": "Jung Hyun Ryu, Pradip Kumar Sharma, Jeong Hoon Jo & Jong Hyuk Park",
-                "presented_to": "Research Group",
+                "presented_to": "to Research Group, Augusta University",
                 "date": "August, 2023",
                 "paper_link": "https://link.springer.com/article/10.1007/s11227-019-02779-9",
                 "presentation_slide_link": "../assets/documents/presentation/A blockchain‑based decentralized efficient investigation framework for IoT digital forensics.pdf",
@@ -87,7 +87,7 @@
             {
                 "title": "Software Transactional Memory (STM)",
                 "authors": "Nir Shavit, Dan Touitou ",
-                "presented_to": "Network and Distributed Algorithm Class",
+                "presented_to": "at Network and Distributed Algorithm Class",
                 "date": "March, 2023",
                 "paper_link": "https://dl.acm.org/doi/pdf/10.1145/224964.224987",
                 "presentation_slide_link": "../assets/documents/presentation/Software_Transactional_Memory.pdf",
@@ -96,7 +96,7 @@
             {
                 "title": "Fast Scheduling in Distributed Transactional Memory",
                 "authors": "Costas Busch, Maurice Herlihy, Miroslav Popovic, Gokarna Sharma ",
-                "presented_to": "Dr. Costas Busch",
+                "presented_to": "to Research Group, Augusta University",
                 "date": "Dec, 2022",
                 "paper_link": "https://dl.acm.org/doi/abs/10.1145/3087556.3087565",
                 "presentation_slide_link": "../assets/documents/presentation/Fast_Scheduling_in_Distributed_Transactional_Memory.pdf",
@@ -111,7 +111,7 @@
             {
                 "title": "The Security Lottery: Measuring Client-Side Web Security Inconsistencies",
                 "authors": "Sebastian Roth, Stefano Calzavara, Moritz Wilhelm, Alvise Rabitti",
-                "presented_to": "Advanced Topics in Computer Security class",
+                "presented_to": "at Advanced Topics in Computer Security class",
                 "date": "Nov, 2022",
                 "paper_link": "https://www.usenix.org/system/files/sec22-roth.pdf",
                 "presentation_slide_link": "../assets/documents/presentation/Advance_topics_in_comp_sci_presentation.pdf",
@@ -126,7 +126,7 @@
             {
                 "title": "Task Scheduling in Fog-Cloud Computing",
                 "authors": "",
-                "presented_to": "Dr. Costas Busch",
+                "presented_to": "to Research Group, Augusta University",
                 "date": "Jan, 2024",
                 "paper_link": "",
                 "presentation_slide_link": "../assets/documents/presentation/Task_Scheduling_in_Fog_Cloud_Computing.pdf",
