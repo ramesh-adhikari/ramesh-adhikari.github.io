@@ -2,6 +2,11 @@
     {
         "id": "2",
         "datas": [
+             {
+                "id": "7",
+                "title": "Invited Reviewer, Journal of Parallel and Distributed Computing.",
+                "date": "2026"
+            },
             {
                 "id": "6",
                 "title": "Invited Reviewer, Theoretical Computer Science.",
