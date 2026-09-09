@@ -6,13 +6,13 @@
         "courses": [
             {
                 "title": "CSEC 2300: Introduction to Cybersecurity",
-                "slides_link": "../assets/documents/syllabus/uca/CSEC-2300-Intro-to-CyberSecurity-Fall-2026.pdf",
+                "slides_link": "NONE",
                 "github_code_link":"NONE"
             },
 
             {
                 "title": "CSEC 3320: Computer Forensics",
-                "slides_link": "../assets/documents/syllabus/uca/CSEC-3320-Computer-Forensics-Fall-2026-Syllabus.pdf",
+                "slides_link": "NONE",
                 "github_code_link":"NONE"
             }
         ]
