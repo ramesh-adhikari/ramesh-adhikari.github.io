@@ -11,15 +11,8 @@
                 "paper_link": "",
                 "presentation_slides_link": "NONE",
                 "github_code_link":"NONE"
-            },
-            {
-                "title": "On the Efficiency of Dynamic Transaction Scheduling in Blockchain Sharding",
-                "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Miroslav Popovic",
-                "journal_name": "ACM Journals: ACM Transactions on Parallel Computing (TOPC)",
-                "paper_link": "",
-                "presentation_slides_link": "NONE",
-                "github_code_link":"NONE"
             }
+            
              
         ]
        
@@ -28,6 +21,14 @@
         "id": "4",
         "year": "2026",
         "papers": [
+            {
+                "title": "On the Efficiency of Dynamic Transaction Scheduling in Blockchain Sharding",
+                "authors": "<b>Ramesh Adhikari</b>, Costas Busch, and Miroslav Popovic",
+                "journal_name": "ACM Journals: ACM Transactions on Parallel Computing (TOPC)",
+                "paper_link": "",
+                "presentation_slides_link": "NONE",
+                "github_code_link":"NONE"
+            },
             {
                 "title": "Near-Optimal Stability for Distributed Transaction Processing in Blockchain Sharding",
                 "authors": "<b>Ramesh Adhikari</b>, Costas Busch, Costas Busch and Dariusz R. Kowalski",
